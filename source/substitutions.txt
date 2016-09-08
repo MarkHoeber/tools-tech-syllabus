@@ -1,0 +1,14 @@
+
+.. |Footnotes| replace:: **Footnotes**
+
+.. |FSU| replace:: Free Software Foundation
+
+.. |ESR| replace:: Eric S. Raymond's
+
+.. |Takeaways| replace:: Takeaways
+
+.. |WP| replace:: Wikipedia
+
+.. |Readings| replace:: Readings
+
+.. |GH| replace:: GitHub

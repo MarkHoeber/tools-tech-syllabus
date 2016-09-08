@@ -1,0 +1,2 @@
+.. include:: links.txt
+.. include:: substitutions.txt
