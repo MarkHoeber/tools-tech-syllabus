@@ -1,0 +1,37 @@
+Class 1
+############
+
+
+Goals
+*********
+
+
+
+Readings
+*********
+
+* |GitHub - Conquer|
+
+* |GitHub - Wikipedia|
+
+* |GitHub - OS|
+
+* |GitHub - Hello World|
+
+Videos
+*******
+
+.. include:: video_refs/github_about.txt
+
+.. include:: video_refs/github_flow.txt
+
+Assignment
+************
+
+|Assignment| 
+
+#. |GitHub - Join|
+
+#. Follow steps in |GitHub - Hello World|.
+
+.. include:: includes.txt
