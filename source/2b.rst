@@ -1,0 +1,43 @@
+Class 2b - CSS
+########################
+
+
+Goals
+*********
+
+* Gain a basic understanding of CSS.
+
+* Be able to modify the look and style of your webpage with CSS.
+
+
+Readings
+*********
+
+* |CSS - Wikipedia|
+
+* |CSS Intro - W3|
+
+
+Extra Credit
+*************
+
+|CSS - edX|
+
+Recommended if you intend to do your final project in HTML.
+
+
+Videos
+*******
+
+.. include:: video_refs/css_intro.txt
+
+
+Assignment
+************
+
+|Assignment| 
+
+
+
+
+.. include:: includes.txt

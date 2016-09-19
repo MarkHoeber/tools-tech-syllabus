@@ -1,11 +1,17 @@
-Class 1
-############
+Class 1 - GitHub and HTML Introduction
+########################################
 
 
 Goals
 *********
 
+* Become comfortable completing basic tasks on GitHub.
 
+* Understand how GitHub fits in a common workflow.
+  
+* Create your Hello World repository.
+
+* Get a basic understanding of HTML.
 
 Readings
 *********
