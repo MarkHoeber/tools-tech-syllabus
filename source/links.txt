@@ -52,7 +52,7 @@
 
 .. |CSS - Wikipedia| raw:: html
 
-  <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">HTML 5 - Wikipedia</a>
+  <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS - Wikipedia</a>
 
 .. |CSS - edX| raw:: html
 

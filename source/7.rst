@@ -1,0 +1,37 @@
+Class 7 - DITA and XSL
+#############################
+
+
+Goals
+*********
+
+* 
+
+
+Readings
+*********
+
+* 
+
+
+Extra Credit
+*************
+
+
+
+
+Videos
+*******
+
+
+
+
+Assignment
+************
+
+|Assignment| 
+
+
+
+
+.. include:: includes.txt

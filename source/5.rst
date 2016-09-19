@@ -1,0 +1,37 @@
+Class 5 - XML and DITA
+#############################
+
+
+Goals
+*********
+
+* 
+
+
+Readings
+*********
+
+* 
+
+
+Extra Credit
+*************
+
+
+
+
+Videos
+*******
+
+
+
+
+Assignment
+************
+
+|Assignment| 
+
+
+
+
+.. include:: includes.txt
