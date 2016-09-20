@@ -1,5 +1,5 @@
-Class 4 - Sphinx and Read the Docs
-###################################
+Class 3a - Markdown 
+#############################
 
 
 Goals

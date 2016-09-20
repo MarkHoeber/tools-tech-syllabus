@@ -1,4 +1,4 @@
-Class 5 - XML and DITA
+Class 6b - DITA Maps
 #############################
 
 
