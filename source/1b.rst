@@ -1,0 +1,38 @@
+Class 1b - Editor Setup
+########################################
+
+
+Goals
+*********
+
+* Get Atom set up as your editor.
+  
+  .. note:: For classes 1 - 9, we will be using Atom, which lets you edit plain text. Through there are various tools to make work easier, working in plain text will give you a better understanding of the subjects we will cover. You can choose to use other plain text tools, such as Sublime, Notepad, or Visual Studio Code, though I will not be providing support for those tools.
+
+
+Readings
+*********
+
+*  |Atom|
+
+Videos
+*******
+
+Install Atom
+===============
+
+.. include:: video_refs/atom_intro.txt
+
+Learn Atom
+============
+
+.. include:: video_refs/atom_series.txt
+
+.. note:: At the end of the video, you’ll see other videos in the Atom series. Watch these as needed.
+
+Assignment
+************
+
+We will use Atom in the next lesson.
+
+.. include:: includes.txt

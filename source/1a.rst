@@ -1,4 +1,4 @@
-Class 1 - GitHub and HTML Introduction
+Class 1a - GitHub
 ########################################
 
 
@@ -9,9 +9,7 @@ Goals
 
 * Understand how GitHub fits in a common workflow.
   
-* Create your Hello World repository.
-
-* Get a basic understanding of HTML.
+* Create your account in GitHub.
 
 Readings
 *********
@@ -36,7 +34,9 @@ Assignment
 
 |Assignment| 
 
-#. |GitHub - Join|
+#. |GitHub - Join|.
+   
+#. |GitHub - Setup|.
 
 #. Follow steps in |GitHub - Hello World|.
 

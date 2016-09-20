@@ -16,7 +16,8 @@ Syllabus
    :maxdepth: 1
 
    intro
-   1
+   1a
+   1b
    2a
    2b
    3a
