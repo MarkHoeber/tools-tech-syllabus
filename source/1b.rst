@@ -14,6 +14,7 @@ Readings
 *********
 
 *  |Atom|
+*  |Atom Flight Manual|
 
 Videos
 *******
@@ -33,6 +34,10 @@ Learn Atom
 Assignment
 ************
 
-We will use Atom in the next lesson.
+|Assignment| 
+
+#. Read Chapters 1 & 2 in the |Atom Flight Manual|.
+#. Install and explore HTML, RST, and Markdown packages for Atom. We will use these in upcoming classes.
+#. Go through the GitHub flow using the desktop application and update your Hello World repository.  
 
 .. include:: includes.txt

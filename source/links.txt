@@ -39,6 +39,10 @@
 
   <a href="https://atom.io/" target="_blank">Atom Website</a>
 
+.. |Atom Flight Manual| raw:: html
+
+  <a href="http://flight-manual.atom.io/" target="_blank">Atom Flight Manual</a>
+
 .. HTML and CSS
 
 .. |HTML 5 - edX| raw:: html

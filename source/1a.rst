@@ -5,7 +5,7 @@ Class 1a - GitHub
 Goals
 *********
 
-* Become comfortable completing basic tasks on GitHub.
+* Become comfortable completing basic tasks with GitHub.
 
 * Understand how GitHub fits in a common workflow.
   
@@ -29,15 +29,17 @@ Videos
 
 .. include:: video_refs/github_flow.txt
 
+.. include:: video_refs/github_desktop.txt
+
 Assignment
 ************
 
 |Assignment| 
 
 #. |GitHub - Join|.
-   
+#. Follow steps in |GitHub - Hello World|.
 #. |GitHub - Setup|.
 
-#. Follow steps in |GitHub - Hello World|.
+In addition, got to |GitHub - Issues| and introduce yourself and add your GitHub username in the approrpriate threads.
 
 .. include:: includes.txt
