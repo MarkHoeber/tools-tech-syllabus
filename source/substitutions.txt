@@ -5,4 +5,4 @@
 
 .. |Readings| replace:: Readings
 
-.. |Assignment| replace:: Do this assignment before class. If you get stuck, search for the answer with Google. Or use |GitHub - Issues| for the course to ask questions. You will have a chance to work on the assignment during class.  Turn in the assignment by the end of class, or if necessary, within two days after class.
+.. |Assignment| replace:: Do as much of this assignment as you can before class. If you get stuck, search for the answer with Google. Or use |GitHub - Issues| for the course to ask questions. You will have a chance to complete on the assignment during class.  Turn in the assignment by the end of class, or if necessary, within two days after class.

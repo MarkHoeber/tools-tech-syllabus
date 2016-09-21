@@ -14,13 +14,13 @@ This course will not make anyone an expert in any tool. Rather, we aim to:
 
 * And most importantly, help you *learn how to learn*. 
 
-  Undoubtedly, in ten years you will not be using the tools and technology we use in this class. You will need to adapt to rapid change.  We will stress using all available sources, and hands-on use, to learn new tools.
+  Undoubtedly, in five years you will not be using the same tools and technology we use in this class. You will need to adapt to rapid change.  We will stress using all available sources, and hands-on use, to learn new tools.
 
 At the end of the course, you should have:
 
-* A broad understanding of multiple technologies
+* A broad understanding of multiple technologies.
 
-* The ability to create basic content with different tools
+* The ability to create basic content with different tools.
 
 * The inclination to ask the right questions and find the answers when learning about new technical subject.
 
@@ -31,23 +31,25 @@ Traditional classes involve a teacher talking and demonstrating during class tim
 
 This class "flips" that model. Students are expected to read and view all material for the class before coming to the classroom. We will use class time to:
 
-#. Ask and answer questions.
-#. Do hands on work, individually and in teams.
+* Ask and answer questions.
+
+* Do hands on work, individually and in teams.
+
+* Share work in an open, supportive atmosphere.
 
 I do not intend to lecture during class. 
-
 
 Expectations
 *************
 
 You must bring curiosity and enthusiasm for hands on work.
 
-You should be familiar and comfortable with either a Mac or Windows, and web browsing.
-
 You must do the reading and watch videos before class, so we can use
 class time for discussion and hands-on learning.
 
 You are expected to collaborate, in small teams and as a class.  There will be team projects -- after all, that is how most of you will work.  I will comment on your work. You are encouraged to help each other and comment on each other's work as well.
+
+You should be familiar and comfortable with either a Mac or Windows, and web browsing.
 
 Setup
 ********

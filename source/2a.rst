@@ -27,6 +27,8 @@ Extra Credit
 
 |HTML 5 - edX|
 
+Recommended if you intend to do your final project in HTML.
+
 
 Videos
 *******
@@ -39,9 +41,13 @@ Assignment
 
 |Assignment| 
 
+Follow the GitHub flow to complete this assignment. After you fork the repository, you can complete the assignment through the browser, or through GitHub Desktop and Atom (or another text editor).
+
 #. Make a fork of |Get Started HMTL Repo| in your own GitHub account.
 
-#. In your new repository, edit the index.html file.
+#. Create a new branch to edit your repository.
+
+#. In your new repository, edit the ``index.html`` file.
 
 #. Give the page a title.
 
@@ -57,7 +63,13 @@ Assignment
 
    For information on adding links to IDs, see |HMTL Links|.
 
-#. Save and commit the file to your ``master`` branch.
+#. Save and commit the file to your branch.
+
+#. Create a pull request for the branch.
+
+#. Tag ``@MarkHoeber`` in the branch.
+
+#. After I give a thumbs up, merge the branch to ``master``.
 
 View Your Work
 ****************
