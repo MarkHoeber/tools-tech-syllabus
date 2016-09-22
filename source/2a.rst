@@ -7,11 +7,11 @@ Goals
 
 * Understand the purpose and history of HTML 5.
 
-* Become comfortable doing basic editing HTML 5.
+* Become comfortable editing HTML 5.
 
 * Learn to create a fork of a repository and make changes to your copy.
 
-* Start your own web page.
+* Publish your own web page.
 
 
 Readings
@@ -22,19 +22,17 @@ Readings
 * |HTML Intro - W3| 
 
 
+Videos
+*******
+
+.. include:: video_refs/html5_intro.txt
+
 Extra Credit
 *************
 
 |HTML 5 - edX|
 
 Recommended if you intend to do your final project in HTML.
-
-
-Videos
-*******
-
-.. include:: video_refs/html5_intro.txt
-
 
 Assignment
 ************
@@ -63,13 +61,11 @@ Follow the GitHub flow to complete this assignment. After you fork the repositor
 
    For information on adding links to IDs, see |HMTL Links|.
 
-#. Save and commit the file to your branch.
+#. Save the file, then open it in a browser and check it out.
 
-#. Create a pull request for the branch.
-
-#. Tag ``@MarkHoeber`` in the branch.
-
-#. After I give a thumbs up, merge the branch to ``master``.
+#. Edit the file as needed, then view again. Keep repeating until you are satisfied.
+   
+.. include:: snippets/save_github.txt
 
 View Your Work
 ****************

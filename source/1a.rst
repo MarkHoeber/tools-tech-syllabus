@@ -40,6 +40,6 @@ Assignment
 #. Follow steps in |GitHub - Hello World|.
 #. |GitHub - Setup|.
 
-In addition, got to |GitHub - Issues| and introduce yourself and add your GitHub username in the approrpriate threads.
+In addition, go to |GitHub - Issues| and introduce yourself and add your GitHub username in the appropriate threads.
 
 .. include:: includes.txt

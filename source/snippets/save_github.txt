@@ -1,0 +1,9 @@
+When your work is ready:
+
+#. Save and commit the file to your branch.
+
+#. Create a pull request for the branch.
+
+#. Tag ``@MarkHoeber`` in the branch.
+
+#. After I give a thumbs up, merge the branch to ``master``.
