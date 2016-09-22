@@ -45,7 +45,11 @@ Expectations
 You must bring curiosity and enthusiasm for hands on work.
 
 You must do the reading and watch videos before class, so we can use
-class time for discussion and hands-on learning.
+class time for discussion and hands-on learning. If you get stuck, search for answers, and ask on our class |GitHub - Issues| page.
+
+I've selected what I think are good articles and videos for this class.  But there are many more. You are encouraged to search on your own, and if you learn a trick we haven't covered, share it.
+
+Class participation online, between class meetings, will be part of your grade.
 
 You are expected to collaborate, in small teams and as a class.  There will be team projects -- after all, that is how most of you will work.  I will comment on your work. You are encouraged to help each other and comment on each other's work as well.
 

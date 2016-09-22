@@ -77,4 +77,6 @@
 
   <a href="http://www.w3schools.com/html/html_links.asp" target="_blank">HTML Links</a>
 
+.. |Chrome Inspector| raw:: html
 
+  <a href="https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/?hl=en" target="_blank">Edit a web page with Chrome Inspector</a>
