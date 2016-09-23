@@ -27,12 +27,6 @@ Videos
 
 .. include:: video_refs/html5_intro.txt
 
-Extra Credit
-*************
-
-|HTML 5 - edX|
-
-Recommended if you intend to do your final project in HTML.
 
 Assignment
 ************
@@ -81,5 +75,12 @@ You now have a web page that you, and your friends and family, can view.
 #. Click **Save**.
 
 The URL of your new website is now listed. Open it.  If you don't like something in your web page, edit the ``index.html`` file again.
+
+Extra Credit
+*************
+
+|HTML 5 - edX|
+
+Recommended if you intend to do your final project in HTML.
 
 .. include:: includes.txt

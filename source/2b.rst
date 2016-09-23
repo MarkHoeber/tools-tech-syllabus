@@ -28,12 +28,6 @@ Videos
 
 .. include:: video_refs/chrome_inspector.txt
 
-Extra Credit
-*************
-
-|CSS - edX|
-
-Recommended if you intend to do your final project in HTML.
 
 Assignment
 ************
@@ -46,11 +40,9 @@ Follow the GitHub flow to complete this assignment. You can complete the assignm
 
 .. note:: The goal of this exercise is to learn the mechanics of editing styles in a web page.  It is not a design contest.
 
-#. Make a new branch in your **Get Started HMTL** repo.
+#. Create a new branch in your **Get Started HMTL** repo.
 
-#. Create a new branch to edit your repository.
-
-#. In your new repository, edit the ``styles.css`` file.
+#. In your new branch, edit the ``styles.css`` file.
 
    .. hint:: Use Chrome Inspector to experiment with changing styles.
 
@@ -80,5 +72,14 @@ Follow the GitHub flow to complete this assignment. You can complete the assignm
 #. Continue editing the styles and refreshing the web page until you are satisfied.
    
 .. include:: snippets/save_github.txt
+
+
+Extra Credit
+*************
+
+|CSS - edX|
+
+Recommended if you intend to do your final project in HTML.
+
 
 .. include:: includes.txt
