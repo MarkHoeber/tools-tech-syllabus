@@ -80,3 +80,28 @@
 .. |Chrome Inspector| raw:: html
 
   <a href="https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/?hl=en" target="_blank">Edit a web page with Chrome Inspector</a>
+
+.. Markdown
+
+.. |Markdown - Wikipedia| raw:: html
+
+  <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank">MarkDown - Wikipedia</a>
+
+.. |What is Markdown| raw:: html
+
+  <a href="http://whatismarkdown.com/" target="_blank">What is MarkDown?</a>
+
+.. |Daring Fireball| raw:: html
+
+  <a href="https://daringfireball.net/projects/markdown/" target="_blank">Daring Fireball</a>
+
+
+.. |MD Atom Preview| raw:: html
+
+  <a href="https://github.com/atom/markdown-preview" target="_blank">Preview MarkDown</a>
+
+.. |MD Writer| raw:: html
+
+  <a href="https://atom.io/packages/markdown-writer" target="_blank">MarkDown Writer</a>
+
+

@@ -5,33 +5,52 @@ Class 3a - Markdown
 Goals
 *********
 
-* 
+* Learn the basic syntax of MarkDown.
+* Edit a page in MarkDown.
+* Learn to use Atom packages to improve the MarkDown editing experience.
 
 
 Readings
 *********
 
-* 
+* |Daring Fireball| 
+* |What is Markdown| 
+* |Markdown - Wikipedia|
 
 
-Extra Credit
-*************
+MarkDown and Atom
+*******************
 
-
+* |MD Atom Preview|
+* |MD Writer| 
 
 
 Videos
 *******
 
+.. include:: video_refs/markdown.txt
 
 
 
 Assignment
 ************
 
-|Assignment| 
+|Assignment|
 
+The good news is you've already worked with MarkDown.  It's the format of the ``readme.md`` file in your **Get Started HMTL** repo. We're just going to update it.
 
+#. Create a new branch in your **Get Started HMTL** repo.
+
+#. In your new branch, edit the ``readme.md`` file.
+
+#. Add any information you want, about yourself or another subject. Make sure you use a majority of the syntax commands available, and end up with a well-structured MarkDown file that looks good as HTML.
+
+.. include:: snippets/save_github.txt
+
+Extra Credit
+*************
+
+Explore more MarkDown packages for Atom, or other MarkDown editors, and share with class.
 
 
 .. include:: includes.txt
