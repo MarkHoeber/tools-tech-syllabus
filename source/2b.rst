@@ -19,7 +19,7 @@ Readings
 
 * |Chrome Inspector|
   
-  .. note:: If you prefer to use another browser, there are equivalent tools.  
+  .. note:: If you prefer to use a different browser, there are equivalent tools.  
 
 Videos
 *******
