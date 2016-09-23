@@ -22,7 +22,7 @@ At the end of the course, you should have:
 
 * The ability to create basic content with different tools.
 
-* The inclination to ask the right questions and find the answers when learning about new technical subject.
+* The inclination to ask the right questions and find the answers when learning about a new technical subject.
 
 An "Flip" Classroom
 ********************
