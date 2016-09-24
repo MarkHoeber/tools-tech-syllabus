@@ -1,4 +1,6 @@
 .. raw:: html
 
-  <iframe width="80%" height="315" src="https://www.youtube.com/embed/WWwBQQOGllo" frameborder="0" allowfullscreen></iframe>
-  <br/><br/>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WWwBQQOGllo" frameborder="0" allowfullscreen></iframe>
+   <br/>
+  <hr/>
+  <br/>
