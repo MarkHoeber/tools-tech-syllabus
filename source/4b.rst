@@ -1,4 +1,4 @@
-Class 4b - Read the Docs
+4b - Read the Docs
 ###################################
 
 

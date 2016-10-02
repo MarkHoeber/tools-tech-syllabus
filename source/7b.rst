@@ -1,4 +1,4 @@
-Class 7 - DITA and XSL
+7b - DITA Maps
 #############################
 
 

@@ -3,14 +3,13 @@ Tools and Technologies for Technical Writers
 
 **Middlesex Community College**
 
-This course includes traditional classroom sessions, online instruction using text and videos, and online communication.  In this course, you will learn the introductory skills needed to make information usable:  create books and PDF files using Adobe FrameMaker, design a web page, create an online help system using (RoboHelp or MadCap Flare) and convert XML to HTML. A segment on Open Source Technology will also be covered.  
+This course will help you become familiar with a wide variety of current tools and technologies writers use to publish online content. 
 
-Well-developed writing skills, solid MS Windows computer skills, and an aptitude for learning new technology is required. It is helpful if participants have basic knowledge of HTML or XML.  
 
-Topics Covered: Usability, Mark-up languages, authoring information for print, PDF, and electronic distribution.  
+Getting Started
+******************
 
-Syllabus
-*********
+To get started, we will set up our content management system and an editor.  And we'll learn about HTML, which is the format in which we'll deliver all information.
 
 .. toctree::
    :maxdepth: 1
@@ -20,30 +19,54 @@ Syllabus
    1b
    2a
    2b
+
+Markup Languages
+******************
+
+Now that we've learned some HTML, it should be apparent that writing large volumes of content directly in HTML would not be efficient.  There are several markup languages that we can use to product HTML more easily.  We'll look at some of the most common.
+
+
+.. toctree::
+   :maxdepth: 1
+
    3a
    3b
    4a
    4b
-   5a
-   5b
+   5
    6a
    6b
-   7
+   7a
+   7b
    8
+
+Publishing Systems
+*******************
+
+There are many more robust publishing systems that we can use to develop content with more fine-grained control.  These programs offer more features and capabilities than markup languages, but also involved more overhead. We can still produce HTML, as well as some other formats.  
+
+.. toctree::
+   :maxdepth: 1
+
+
    9
    10
    11
    12
    13
    14
+
+
+Wrap Up
+*******************
+
+We will use the last two classes to work on and present our projects.
+
+.. toctree::
+   :maxdepth: 1
+
    15
    16
-   
-
-
-
-
-
 
 
 .. include:: includes.txt

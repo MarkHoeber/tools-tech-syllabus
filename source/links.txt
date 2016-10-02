@@ -133,5 +133,6 @@
 
   <a href="https://atom.io/packages/language-restructuredtext" target="_blank">RST Language Support</a>
 
-  
+.. |RST Templates Repository| raw:: html
 
+  <a href="https://github.com/MarkHoeber/rst_templates" target="_blank">RST Templates Repository</a>
