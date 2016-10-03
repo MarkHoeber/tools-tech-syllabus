@@ -77,6 +77,12 @@ Everyone is encouraged to ask questions, and comment on others questions.
 
 To get started, please go to the GitHub - Issues page, find the Introductions issue, and add a comment to introduce yourself.
 
+
+Projects
+***********************
+
+
+
 An Open Source Course
 ***********************
 

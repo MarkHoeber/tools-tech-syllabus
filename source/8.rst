@@ -1,4 +1,4 @@
-Class 8 - Jekyll
+8 - DITA and XSL
 #############################
 
 

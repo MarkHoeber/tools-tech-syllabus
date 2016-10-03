@@ -1,4 +1,4 @@
-Class 1b - Editor Setup
+1b - Editor Setup
 ########################################
 
 
