@@ -1,3 +1,5 @@
+.. _RST:
+
 3b - RST (reStructuredText)
 ###################################
 
@@ -24,6 +26,8 @@ Practice
 
 |Online reStructuredText Editor|
 
+.. note:: Indentation is important in RST. Lots of problems are caused by inconsistent indentation. The only way to learn is to practice and see the results.
+
 
 RST and Atom
 **************
@@ -33,7 +37,6 @@ RST and Atom
 * |RST Preview| 
 
 * |RST Preview DocUtils Package|
-
 
 
 Assignment
@@ -67,6 +70,5 @@ Assignment
 .. include:: snippets/save_github.txt
 
 These files will form the basis of your Sphinx project in the :ref:`next lesson <Sphinx>`.
-
 
 .. include:: includes.txt

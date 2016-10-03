@@ -15,6 +15,7 @@ To get started, we will set up our content management system and an editor.  And
    :maxdepth: 1
 
    intro
+   projects
    1a
    1b
    2a
@@ -23,8 +24,7 @@ To get started, we will set up our content management system and an editor.  And
 Markup Languages
 ******************
 
-Now that we've learned some HTML, it should be apparent that writing large volumes of content directly in HTML would not be efficient.  There are several markup languages that we can use to product HTML more easily.  We'll look at some of the most common.
-
+Now that we've learned some HTML, it should be apparent that writing large volumes of content directly in HTML would not be efficient.  There are several markup languages that we can use to produce HTML more easily.  We'll look at some of the most common.
 
 .. toctree::
    :maxdepth: 1
@@ -47,7 +47,6 @@ There are many more robust publishing systems that we can use to develop content
 
 .. toctree::
    :maxdepth: 1
-
 
    9
    10
