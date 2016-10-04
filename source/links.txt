@@ -104,6 +104,8 @@
 
   <a href="https://atom.io/packages/markdown-writer" target="_blank">MarkDown Writer</a>
 
+
+
 .. |Quick RST| raw:: html
 
   <a href="http://docutils.sourceforge.net/docs/user/rst/quickref.html" target="_blank">Quick reStructuredText</a>
@@ -136,3 +138,29 @@
 .. |RST Templates Repository| raw:: html
 
   <a href="https://github.com/MarkHoeber/rst_templates" target="_blank">RST Templates Repository</a>
+
+.. |First Steps with Sphinx| raw:: html
+
+  <a href="http://www.sphinx-doc.org/en/stable/tutorial.html" target="_blank">First Steps with Sphinx</a>
+
+.. |Sphinx Overview| raw:: html
+
+  <a href="http://www.sphinx-doc.org/en/stable/" target="_blank">Sphinx Overview</a>
+
+.. |PIP Install| raw:: html
+
+  <a href="https://pip.pypa.io/en/stable/installing/" target="_blank">Install PIP</a>
+
+.. |Python Install| raw:: html
+ 
+  <a href="https://www.python.org/downloads/https://pip.pypa.io/en/stable/installing/" target="_blank">Install Python</a>
+
+
+.. |Get Started Sphinx Repo| raw:: html
+ 
+  <a href="https://github.com/MarkHoeber/get_started_sphinx" target="_blank">Get Started with Sphinx Repository</a>
+
+.. |Tools and Technology Repo| raw:: html
+ 
+  <a href="https://github.com/MarkHoeber/tools-tech-syllabus" target="_blank">Tools and Technology Repository</a>
+
