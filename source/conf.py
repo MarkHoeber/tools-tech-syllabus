@@ -33,7 +33,7 @@ html_theme_options = {
   'navbar_pagenav_name': "Lesson",
   'source_link_position': "footer",
 
-  #'bootswatch_theme': "Slate"
+  'bootswatch_theme': "Sandstone"
 }
 
 
