@@ -1,8 +1,6 @@
 Tools and Technologies for Technical Writers
 #####################################################
 
-THIS IS A TEST
-
 **Middlesex Community College**
 
 This course will help you become familiar with a wide variety of current tools and technologies writers use to publish online content. 
