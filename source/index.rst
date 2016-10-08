@@ -3,7 +3,7 @@ Tools and Technologies for Technical Writers
 
 **Middlesex Community College**
 
-This course will help you become familiar with a wide variety of current tools and technologies writers use to publish online content. 
+This course will help you become familiar with a wide variety of current tools and technologies writers use to publish online content.
 
 
 Getting Started
@@ -43,7 +43,7 @@ Now that we've learned some HTML, it should be apparent that writing large volum
 Publishing Systems
 *******************
 
-There are many more robust publishing systems that we can use to develop content with more fine-grained control.  These programs offer more features and capabilities than markup languages, but also involved more overhead. We can still produce HTML, as well as some other formats.  
+There are many more robust publishing systems that we can use to develop content with more fine-grained control.  These programs offer more features and capabilities than markup languages, but also involved more overhead. We can still produce HTML, as well as some other formats.
 
 .. toctree::
    :maxdepth: 1

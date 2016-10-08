@@ -21,7 +21,7 @@ Readings
 *********
 
 * |Sphinx Overview|
-* |First Steps with Sphinx| 
+* |First Steps with Sphinx|
 
 
 Videos
@@ -44,18 +44,18 @@ To build your HTML document on your computer, you must install Sphinx.
    If you are using a Mac, it's probably installed.
 
 #. |PIP Install|.
-   
+
    Depending on your Windows setup, after installation you might need to manually add the PIP directory to your path.
 
 #. Use PIP to install Sphinx. On the command line, enter::
-  
+
    $ pip install Sphinx
 
 
-Assignment 
+Assignment
 *************
 
-|Assignment| 
+|Assignment|
 
 Part 1
 =========
@@ -70,7 +70,7 @@ Part 1
 
 #. Run the command ``make html``.  Check if there are warnings or errors in the command window. There should not be.
 
-#. Check for the HTML output in the ``get_started_sphinx/build/html`` directory.  
+#. Check for the HTML output in the ``get_started_sphinx/build/html`` directory.
 
 #. Open the file ``index.html``.
 
@@ -92,7 +92,7 @@ When you have added content to RST files in the Sphinx project:
 
 #. Run the command ``make html``.  Check if there are warnings or errors in the command window. Fix those issues.  Use Google, or |GitHub - Issues| if you get stuck.
 
-#. Check for the HTML output in the ``get_started_sphinx/build/html`` directory.  
+#. Check for the HTML output in the ``get_started_sphinx/build/html`` directory.
 
 #. Open the file ``index.html``. Check that the content is what you expect.
 
@@ -103,8 +103,8 @@ When you have added content to RST files in the Sphinx project:
 Extra Credit
 ***************
 
-* Change the Sphinx theme by changing the value of ``html_theme`` in the ``conf.py`` file. Search Sphinx documentation for more information.  
-  
+* Change the Sphinx theme by changing the value of ``html_theme`` in the ``conf.py`` file. Search Sphinx documentation for more information.
+
 * Checkout the |Tools and Technology Repo| (the source for this syllabus). Examine how the document is organized. Create a branch and make an improvement in this syllabus. Build it locally and ensure it comes out as you expect. Then submit a pull request.
 
 Recommended if you intend to do your final project in Sphinx.

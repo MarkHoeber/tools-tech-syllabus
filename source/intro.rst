@@ -12,7 +12,7 @@ This course will not make anyone an expert in any tool. Rather, we aim to:
 
 * Provide context for tool choices.
 
-* And most importantly, help you *learn how to learn*. 
+* And most importantly, help you *learn how to learn*.
 
   Undoubtedly, in five years you will not be using the same tools and technology we use in this class. You will need to adapt to rapid change.  We will stress using all available sources, and hands-on use, to learn new tools.
 
@@ -24,7 +24,7 @@ At the end of the course, you should have:
 
 * The inclination to ask the right questions and find the answers when learning about a new technical subject.
 
-An "Flip" Classroom
+A "Flip" Classroom
 ********************
 
 Traditional classes involve a teacher talking and demonstrating during class time, and students completing assignments outside of class.
@@ -37,7 +37,7 @@ This class "flips" that model. Students are expected to read and view all materi
 
 * Share work in an open, supportive atmosphere.
 
-I do not intend to lecture during class. 
+I do not intend to lecture during class.
 
 Expectations
 *************

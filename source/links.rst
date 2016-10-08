@@ -152,15 +152,29 @@
   <a href="https://pip.pypa.io/en/stable/installing/" target="_blank">Install PIP</a>
 
 .. |Python Install| raw:: html
- 
+
   <a href="https://www.python.org/downloads/https://pip.pypa.io/en/stable/installing/" target="_blank">Install Python</a>
 
-
 .. |Get Started Sphinx Repo| raw:: html
- 
+
   <a href="https://github.com/MarkHoeber/get_started_sphinx" target="_blank">Get Started with Sphinx Repository</a>
 
 .. |Tools and Technology Repo| raw:: html
- 
+
   <a href="https://github.com/MarkHoeber/tools-tech-syllabus" target="_blank">Tools and Technology Repository</a>
 
+.. |ReadtheDocs| raw:: html
+
+    <a href="http://ReadtheDocs.org" target="_blank">ReadtheDocs.org</a>
+
+.. |RTD Home| raw:: html
+
+  <a href="https://readthedocs.org/" target="_blank">Read the Docs Website</a>
+
+.. |RTD Doc| raw:: html
+
+  <a href="https://docs.readthedocs.io/en/latest/index.html" target="_blank">Read the Docs Guide</a>
+
+.. |Sphinx Theme Doc| raw:: html
+
+  <a href="http://www.sphinx-doc.org/en/stable/theming.html" target="_blank">Sphinx HTML Theming Support</a>
