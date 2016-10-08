@@ -1,5 +1,5 @@
-4b - ReadtheDocs
-#################
+4b - Read the Docs
+###################
 
 |RTD| is a free service that publishes and hosts documentation.
 
