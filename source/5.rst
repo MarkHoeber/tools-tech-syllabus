@@ -5,13 +5,16 @@
 Goals
 *********
 
-*
+* To understand how to create a website using Markdown and Jekyll.
+* To edit and publish a basic Jekyll website.
 
 
 Readings
 *********
 
 * |Jekyll Home|
+* |Jekyll Docs|
+* |How Jekyll Works|
 
 
 Videos
@@ -28,12 +31,68 @@ Assignment
 
 |Assignment|
 
+Part 1
+=========
+
+#. Make a fork of |markhoeber.github.io| in your own GitHub account.
+
+#. In *Settings*, change the name of your repository to ``your-github-username.github.io``.
+
+#. View your website at ``http://your-github-username.github.io``.
+
+   This is the website created by the repository you just forked.
+
+   The page should look like the following image.
+
+   .. image:: images/jekyll-site.png
+     :width: 400
+
+#. Read the repository ReadMe for instructions on setting up your computer to work with Jekyll.
+
+#. Install Jekyll.
+
+#. Clone the repository to your computer.
+
+#. Create a new branch.
+
+#. To serve the website created by Jekyy, at the command prompt, enter: ``jekyll serve``.
+
+#. In your browser, go the the page ``http://localhost:4000/``.
+
+   At this step, the site should look the same as at ``http:\\your-github-username.github.io``.
+
+Part 2
+=========
+
+Look back to the class :ref:`Markdown`.
+
+#. In your branch, edit the file ``about.md``.  Add information about yourself.
+
+#. In the ``_posts`` directory, duplicate the existing post and give it a new name.
+
+   .. note:: You must use the following format for the filename:  ``yyyy-mm-dd-name.md``.
+
+#. Edit the new Markdown file to have whatever content you want. Use at least one image.
+
+#. In the command prompt, stop the Jekyll server by entering ``ctr+c``.
+
+#. Restart the Jekyll server by entering ``jekyll serve``.
+
+#. View ``http://localhost:4000/`` and verify your changes.
+
+#. Iterate through updating your post and restarting the server until you are satisfied with the results.
+
+.. include:: snippets/save_github.txt
+
+Then verify your changes at ``http://your-github-username.github.io``
 
 Extra Credit
 *************
 
+Modify the structure of your Jekyll site by editing templates in the ``_layouts`` directory. See |Jekyll Templates| for more information.
 
+Modify the styles of your site in the ``style.scss`` file.
 
-
+Recommended if you intend to do your final project in Jekyll.
 
 .. include:: includes.txt
