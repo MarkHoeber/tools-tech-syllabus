@@ -179,6 +179,24 @@
 
   <a href="http://www.sphinx-doc.org/en/stable/theming.html" target="_blank">Sphinx HTML Theming Support</a>
 
+.. Jekyll
+
 .. |Jekyll Home| raw:: html
 
   <a href="https://jekyllrb.com/" target="_blank">Jekyll Home</a>
+
+.. |Jekyll Docs| raw:: html
+
+  <a href="https://jekyllrb.com/docs/home/" target="_blank">Jekyll Docs</a>
+
+.. |How Jekyll Works| raw:: html
+
+  <a href="http://jekyllbootstrap.com/lessons/jekyll-introduction.html" target="_blank">How Jekyll Works</a>
+
+.. |markhoeber.github.io| raw:: html
+
+  <a href="https://github.com/MarkHoeber/markhoeber.github.io" target="_blank">markhoeber.github.io repository</a>
+
+.. |Jekyll Templates| raw:: html
+
+  <a href="https://jekyllrb.com/docs/templates/" target="_blank">Jekyll Templates</a>

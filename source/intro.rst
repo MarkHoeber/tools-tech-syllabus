@@ -14,7 +14,7 @@ This course will not make anyone an expert in any tool. Rather, we aim to:
 
 * And most importantly, help you *learn how to learn*.
 
-  Undoubtedly, in five years you will not be using the same tools and technology we use in this class. You will need to adapt to rapid change.  We will stress using all available sources, and hands-on use, to learn new tools.
+  Undoubtedly, in five years you will not be using the same tools that we use in this class. You will need to adapt to rapid change.  We will stress using all available sources, and hands-on use, to learn new tools.
 
 At the end of the course, you should have:
 
@@ -29,7 +29,7 @@ A "Flip" Classroom
 
 Traditional classes involve a teacher talking and demonstrating during class time, and students completing assignments outside of class.
 
-This class "flips" that model. Students are expected to read and view all material for the class before coming to the classroom. We will use class time to:
+This class "flips" that model. Students are expected to read and view all material for the class, and work on assigments, before coming to the classroom. We will use class time to:
 
 * Ask and answer questions.
 
@@ -45,13 +45,13 @@ Expectations
 You must bring curiosity and enthusiasm for hands on work.
 
 You must do the reading and watch videos before class, so we can use
-class time for discussion and hands-on learning. If you get stuck, search for answers, and ask on our class |GitHub - Issues| page.
+class time for discussion and hands-on learning. If you get stuck, search for answers first, then ask on our class |GitHub - Issues| page.
 
 I've selected what I think are good articles and videos for this class.  But there are many more. You are encouraged to search on your own, and if you learn a trick we haven't covered, share it.
 
-Class participation online, between class meetings, will be part of your grade.
+Class participation online, between class meetings, is expected.
 
-You are expected to collaborate, in small teams and as a class.  There will be team projects -- after all, that is how most of you will work.  I will comment on your work. You are encouraged to help each other and comment on each other's work as well.
+You are also expected to collaborate, in small teams and as a class.  There will be team projects -- after all, that is how most of you will work.  I will comment on your work. You are encouraged to help each other and comment on each other's work as well.
 
 You should be familiar and comfortable with either a Mac or Windows, and web browsing.
 
@@ -73,15 +73,9 @@ We will use the |GitHub - Issues| page of this syllabus for class discussion.
 
 GitHub issues function much like a discussion board. You can start a new issue, and comment on existing issues. Issues are Open or Closed.  I'll close an issue when the question has been answered. But you can still get good information by browsing Closed issues.
 
-Everyone is encouraged to ask questions, and comment on others questions.
+Everyone is encouraged to ask questions, and comment on others' questions.
 
 To get started, please go to the GitHub - Issues page, find the Introductions issue, and add a comment to introduce yourself.
-
-
-Projects
-***********************
-
-
 
 An Open Source Course
 ***********************
@@ -92,20 +86,12 @@ In addition, we're not just learning about the open source world, we are experie
 
 How? Let's look at the ways:
 
-* Much of the content of this course comes from freely available sources, such
-  as Wikipedia, YouTube, and SlideShare. My
-  role is to assemble sources into a coherent story that meets our
-  objectives.
+* Much of the content of this course comes from freely available sources, such as Wikipedia, YouTube, and SlideShare. My role is to assemble sources into a coherent story that meets our objectives.
 
-* Content on |WP| and YouTube, two of our primary sources, is created by users,
-  not owners. That is, these platforms derive their value from the aggregated
-  efforts of the community, just as do the open source projects we will discuss.
+* Content on |WP| and YouTube, two of our primary sources, is created by users, not owners. That is, these platforms derive their value from the aggregated efforts of the community, just as do the open source projects we will discuss.
 
-* This syllabus is created, stored, and hosted using only open source tools.
-  This didn't cost a cent, and just about any aspect of it can be modified.
+* This syllabus is created, stored, and hosted using only open source tools. This didn't cost a cent, and just about any aspect of it can be modified.
 
-* In fact, **this syllabus is open source**, with a Creative Commons
-  license. You can, and are encouraged to, make it
-  better and to share it, using the tools we will learn about.
+* In fact, **this syllabus is open source**, with a Creative Commons license. You can, and are encouraged to, make it better and to share it, using the tools we will learn about.
 
 .. include:: includes.txt

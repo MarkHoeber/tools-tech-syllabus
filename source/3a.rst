@@ -1,4 +1,6 @@
-3a - Markdown 
+.. _Markdown:
+
+3a - Markdown
 #############################
 
 
@@ -13,8 +15,8 @@ Goals
 Readings
 *********
 
-* |Daring Fireball| 
-* |What is Markdown| 
+* |Daring Fireball|
+* |What is Markdown|
 * |Markdown - Wikipedia|
 
 
@@ -22,7 +24,7 @@ MarkDown and Atom
 *******************
 
 * |MD Atom Preview|
-* |MD Writer| 
+* |MD Writer|
 
 
 Videos
