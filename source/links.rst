@@ -178,3 +178,7 @@
 .. |Sphinx Theme Doc| raw:: html
 
   <a href="http://www.sphinx-doc.org/en/stable/theming.html" target="_blank">Sphinx HTML Theming Support</a>
+
+.. |Jekyll Home| raw:: html
+
+  <a href="https://jekyllrb.com/" target="_blank">Jekyll Home</a>

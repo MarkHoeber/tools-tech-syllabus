@@ -1,35 +1,37 @@
 5- Jekyll
-#############################
+###########
 
 
 Goals
 *********
 
-* 
+*
 
 
 Readings
 *********
 
-* 
-
-
-Extra Credit
-*************
-
-
+* |Jekyll Home|
 
 
 Videos
-*******
+*********
 
+.. include:: video_refs/jekyll_doc.txt
+
+.. include:: video_refs/jekyll_doc_challenges.txt
 
 
 
 Assignment
 ************
 
-|Assignment| 
+|Assignment|
+
+
+Extra Credit
+*************
+
 
 
 
