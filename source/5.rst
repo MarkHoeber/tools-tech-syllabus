@@ -14,6 +14,7 @@ Readings
 
 * |Jekyll Home|
 * |Jekyll Docs|
+* |Jekyll Blog|
 * |How Jekyll Works|
 
 
@@ -59,7 +60,7 @@ Part 1
 
 #. In your browser, go the the page ``http://localhost:4000/``.
 
-   At this step, the site should look the same as at ``http:\\your-github-username.github.io``.
+   At this step, the site should look the same as at ``http://your-github-username.github.io``.
 
 Part 2
 =========
@@ -91,7 +92,7 @@ Extra Credit
 
 Modify the structure of your Jekyll site by editing templates in the ``_layouts`` directory. See |Jekyll Templates| for more information.
 
-Modify the styles of your site in the ``style.scss`` file.
+Modify the styles of your site in the ``style.scss`` file. See :ref:`CSS` for reference.
 
 Recommended if you intend to do your final project in Jekyll.
 
