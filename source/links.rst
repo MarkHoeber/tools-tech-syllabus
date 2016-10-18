@@ -200,3 +200,26 @@
 .. |Jekyll Templates| raw:: html
 
   <a href="https://jekyllrb.com/docs/templates/" target="_blank">Jekyll Templates</a>
+
+.. |Jekyll Blog| raw:: html
+
+  <a href="https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/" target="_blank">Build A Blog With Jekyll And GitHub Pages</a>
+
+.. XML
+
+.. |XML Tutorial| raw:: html
+
+  <a href="http://www.w3schools.com/xml/" target="_blank">XML Tutorial</a>
+
+
+.. |XML - Wikipedia| raw:: html
+
+  <a href="https://en.wikipedia.org/wiki/XML" target="_blank">XML - Wikipedia</a>
+
+.. |XML-tools Atom| raw:: html
+
+  <a href="https://atom.io/packages/xml-tools" target="_blank">XML Tools</a>
+
+.. |XML Formatter Atom| raw:: html
+
+  <a href="https://atom.io/packages/xml-formatter" target="_blank">XML Formatter</a>

@@ -1,3 +1,5 @@
+.. _CSS:
+
 2b - CSS
 ########################
 
@@ -18,8 +20,8 @@ Readings
 * |CSS Intro - W3|
 
 * |Chrome Inspector|
-  
-  .. note:: If you prefer to use a different browser, there are equivalent tools.  
+
+  .. note:: If you prefer to use a different browser, there are equivalent tools.
 
 Videos
 *******
@@ -32,7 +34,7 @@ Videos
 Assignment
 ************
 
-|Assignment| 
+|Assignment|
 
 Find a partner for this assignment.  You should work together, though you only need to complete these steps for one repository.
 
@@ -68,9 +70,9 @@ Follow the GitHub flow to complete this assignment. You can complete the assignm
    * Change the background color so it sticks out on the page.
 
 #. Make the footer smaller.
-   
+
 #. Continue editing the styles and refreshing the web page until you are satisfied.
-   
+
 .. include:: snippets/save_github.txt
 
 
