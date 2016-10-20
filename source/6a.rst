@@ -45,11 +45,26 @@ Assignment
 
 #. Add an XMl file in the branch.
 
-   Think of content that can be organized by semantic meaning.
+   Look at content you created in an earlier lesson.  Think about how it can be organized by semantic meaning.
 
-   For example:
+   Here are a few examples:
 
    .. code-block:: XML
+     :linenos:
+
+     <page>
+       <author>Your name</author>
+       <title>The Title</title>
+       <abstract>Two sentence abstract.</abstract>
+       <body>
+         <pargraph>First paragraph</paragraph>
+         <pargraph>Second paragraph</pargraph>
+       </body>
+     </page>
+
+
+   .. code-block:: XML
+     :linenos:
 
      <people>
        <person>
