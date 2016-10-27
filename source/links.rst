@@ -223,3 +223,11 @@
 .. |XML Formatter Atom| raw:: html
 
   <a href="https://atom.io/packages/xml-formatter" target="_blank">XML Formatter</a>
+
+.. |DITA - Wikipedia| raw:: html
+
+  <a href="https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture" target="_blank">DITA - Wikipedia</a>
+
+.. |DITA FAQs| raw:: html
+
+  <a href="http://www.ibm.com/developerworks/library/x-dita3/" target="_blank">DITA - FAQs</a>

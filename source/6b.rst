@@ -5,31 +5,33 @@
 Goals
 *********
 
-* 
+* Understand the philosophy and goals of DITA.
+* Understand the basic DITA topic types.
 
+Introduction
+*************
+
+.. include:: slideshare/dita_intro.txt
 
 Readings
 *********
 
-* 
+* |DITA - Wikipedia|
 
-
-Extra Credit
-*************
-
-
-
+* |DITA FAQs|
 
 Videos
 *******
 
+.. include:: video_refs/dita_101.txt
 
+.. include:: snippets/video_series.txt
 
 
 Assignment
 ************
 
-|Assignment| 
+|Assignment|
 
 
 

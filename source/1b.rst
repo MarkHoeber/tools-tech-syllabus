@@ -6,7 +6,7 @@ Goals
 *********
 
 * Get Atom set up as your editor.
-  
+
   .. note:: For classes 1 - 9, we will be using Atom, which lets you edit plain text. Through there are various tools to make work easier, working in plain text will give you a better understanding of the subjects we will cover. You can choose to use other plain text tools, such as Sublime, Notepad, or Visual Studio Code, though I will not be providing support for those tools.
 
 
@@ -29,15 +29,15 @@ Learn Atom
 
 .. include:: video_refs/atom_series.txt
 
-.. note:: At the end of the video, you’ll see other videos in the Atom series. Watch these as needed.
+.. include:: snippets/video_series.txt
 
 Assignment
 ************
 
-|Assignment| 
+|Assignment|
 
 #. Read Chapters 1 & 2 in the |Atom Flight Manual|.
 #. Install and explore HTML, RST, and Markdown packages for Atom. We will use these in upcoming classes.
-#. Go through the GitHub flow using the desktop application and update your Hello World repository.  
+#. Go through the GitHub flow using the desktop application and update your Hello World repository.
 
 .. include:: includes.txt
