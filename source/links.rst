@@ -231,3 +231,13 @@
 .. |DITA FAQs| raw:: html
 
   <a href="http://www.ibm.com/developerworks/library/x-dita3/" target="_blank">DITA - FAQs</a>
+
+.. |DITA Tutorial| raw:: html
+
+  <a href="http://www.xmlmind.com/tutorials/DITA/" target=\"_blank\">DITA Tutorial</a>
+
+.. |Get Started with DITA repository| raw:: html
+
+  <a href="https://github.com/MarkHoeber/get_started_dita" target=\"_blank\">Get Started with DITA repository</a>
+
+

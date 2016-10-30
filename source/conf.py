@@ -15,7 +15,7 @@ project = u'Tools and Technologies for Technical Writers'
 copyright = u'2016, Mark Hoeber'
 author = u'Mark Hoeber'
 
-exclude_patterns = []
+
 
 pygments_style = 'sphinx'
 
@@ -37,4 +37,4 @@ html_theme_options = {
   #'bootswatch_theme': "Sandstone"
 }
 
-
+exclude_patterns = ['links.rst', 'substitutions.rst']
