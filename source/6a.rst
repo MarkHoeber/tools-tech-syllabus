@@ -1,3 +1,6 @@
+.. _XML:
+
+
 6a - XML
 #############################
 
@@ -16,7 +19,6 @@ Readings
 
 * |XML - Wikipedia|
 
-
 Videos
 *******
 
@@ -24,8 +26,10 @@ Videos
 
 .. include:: video_refs/xml_create_doc.txt
 
-Atom Packages for XML
+Sublime for XML
 ***********************
+
+.. todo:: change to sublime
 
 Install the following packages to make it easier to edit XML in Atom.
 

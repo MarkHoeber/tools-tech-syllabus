@@ -1,4 +1,4 @@
-6b - DITA
+6b - DITA Introduction
 #############################
 
 
@@ -18,6 +18,8 @@ Readings
 
 * |DITA - Wikipedia|
 
+* |DITA Tutorial|
+
 * |DITA FAQs|
 
 Videos
@@ -33,7 +35,16 @@ Assignment
 
 |Assignment|
 
+#. In the repository you made in :ref:`XML`, create a new branch.
 
+#. Modify the XML file you created to be a valid DITA topic.
 
+   You must decide what type of topic the content is:  **concept**, **task**, or **reference**.
+
+   Then use valid elements for that type of topic.
+
+#. Validate the file against the DTD for the topic type.
+
+   .. note:: You must set the ``DOCTYPE`` declaration to the URL of the online DTD. Take a look at the sample files in the |Get Started with DITA repository|.
 
 .. include:: includes.txt
