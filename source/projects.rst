@@ -1,5 +1,6 @@
+.. _Project:
 
-Projects
+Final Project
 #############
 
 You will complete a final project for this course.

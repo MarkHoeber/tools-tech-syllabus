@@ -248,4 +248,8 @@
 
   <a href="http://www.xmlmind.com/xmleditor/tutorial.html" target="_blank">XMLmind Tutorials</a>
 
+.. |Sublime| raw:: html
+
+  <a href="https://www.sublimetext.com/" target="_blank">Sublime</a>
+
 
