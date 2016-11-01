@@ -41,10 +41,45 @@ Assignment
 
    You must decide what type of topic the content is:  **concept**, **task**, or **reference**.
 
-   Then use valid elements for that type of topic.
+   For example, you could modify the document from the preview lesson:
+
+   .. code-block:: XML
+     :linenos:
+
+      <page>
+        <author>Your name</author>
+        <title>The Title</title>
+        <abstract>Two sentence abstract.</abstract>
+        <body>
+        <pargraph>First paragraph</paragraph>
+        <pargraph>Second paragraph</pargraph>
+      </body>
+      </page>
+
+   Into a DITA concept.
+
+   .. code-block:: XML
+     :linenos:
+
+      <!DOCTYPE concept
+      PUBLIC '-//OASIS//DTD DITA Concept//EN'
+      'http://docs.oasis-open.org/dita/v1.2/cs01/dtd1.2/technicalContent/dtd/concept.dtd'>
+      <concept id="sample_concept" xml:lang="en-US">
+        <author>Your name</author>
+        <title>My Abstract</title>
+        <shortdesc>My Abstract</shortdesc>
+        <conbody>
+          <p>First paragraph</p>
+          <p>Second paragraph</p>
+        </conbody>
+       </concept>  
+
+   Use valid elements for that type of topic.
 
 #. Validate the file against the DTD for the topic type.
 
    .. note:: You must set the ``DOCTYPE`` declaration to the URL of the online DTD. Take a look at the sample files in the |Get Started with DITA repository|.
+
+.. include:: snippets/save_github.txt
 
 .. include:: includes.txt

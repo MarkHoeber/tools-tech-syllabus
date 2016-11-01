@@ -5,13 +5,19 @@
 Goals
 *********
 
-* XMLMind
+* Deepen an understanding of DITA.
+
+* Understand validation.
+
+* Use |XMLmind| to learn how to work with tools designed for DITA.
 
 
 Readings
 *********
 
-* 
+* |XMLmind Tutorials| - Getting Started lessons
+
+
 
 
 Extra Credit

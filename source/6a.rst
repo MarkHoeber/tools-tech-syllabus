@@ -29,8 +29,6 @@ Videos
 Sublime for XML
 ***********************
 
-.. todo:: change to sublime
-
 Install the following packages to make it easier to edit XML in Atom.
 
 * |XML-tools Atom|

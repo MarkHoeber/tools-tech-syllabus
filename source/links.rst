@@ -240,4 +240,12 @@
 
   <a href="https://github.com/MarkHoeber/get_started_dita" target=\"_blank\">Get Started with DITA repository</a>
 
+.. |XMLmind| raw:: html
+
+  <a href="http://www.xmlmind.com/" target=\"_blank\">XMLmind</a>
+
+.. |XMLmind Tutorials| raw:: html
+
+  <a href="http://www.xmlmind.com/xmleditor/tutorial.html" target="_blank">XMLmind Tutorials</a>
+
 
