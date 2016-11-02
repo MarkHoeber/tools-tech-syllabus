@@ -1,3 +1,6 @@
+.. _DITA Introduction:
+
+
 6b - DITA Introduction
 #############################
 
@@ -22,6 +25,8 @@ Readings
 
 * |DITA FAQs|
 
+* |DITA Concepts|
+
 Videos
 *******
 
@@ -39,7 +44,7 @@ Assignment
 
 #. Modify the XML file you created to be a valid DITA topic.
 
-   You must decide what type of topic the content is:  **concept**, **task**, or **reference**.
+   For this exercise, make the topic a **concept**.
 
    For example, you could modify the document from the preview lesson:
 
@@ -51,8 +56,8 @@ Assignment
         <title>The Title</title>
         <abstract>Two sentence abstract.</abstract>
         <body>
-        <pargraph>First paragraph</paragraph>
-        <pargraph>Second paragraph</pargraph>
+        <paragraph>First paragraph</paragraph>
+        <paragraph>Second paragraph</pargraph>
       </body>
       </page>
 
@@ -63,7 +68,7 @@ Assignment
 
       <!DOCTYPE concept
       PUBLIC '-//OASIS//DTD DITA Concept//EN'
-      'http://docs.oasis-open.org/dita/v1.2/cs01/dtd1.2/technicalContent/dtd/concept.dtd'>
+      'dtd1.2/technicalContent/dtd/concept.dtd'>
       <concept id="sample_concept" xml:lang="en-US">
         <author>Your name</author>
         <title>My Abstract</title>
@@ -74,11 +79,11 @@ Assignment
         </conbody>
        </concept>  
 
-   Use valid elements for that type of topic.
+   Use valid elements for a concept.
 
 #. Validate the file against the DTD for the topic type.
 
-   .. note:: You must set the ``DOCTYPE`` declaration to the URL of the online DTD. Take a look at the sample files in the |Get Started with DITA repository|.
+   .. note:: You must set the ``DOCTYPE`` declaration to the path and name of the DTD. Take a look at the sample files in the |Get Started with DITA repository|.  Copy the ``dtd1.2`` folder from there into your branch, and validate your file against the concpet, task, or 
 
 .. include:: snippets/save_github.txt
 

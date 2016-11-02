@@ -132,25 +132,39 @@ technologies.
 
 I will comment extensively on your work and answer questions.
 
-I also expect you to help your peers.  If you see a question in |GitHub - Issues|, don't wait for me. Try to offer good suggestions.
+I also expect you to help your peers.  If you see a question in |GitHub -
+Issues|, don't wait for me. Try to offer good suggestions.
 
-There is also a :ref:`Project` due at the end of the term. The project will allow you to work more deeply with a chosen technology.
+There is also a :ref:`Project` due at the end of the term. The project will
+allow you to work more deeply with a chosen technology.
 
 An Open Source Course
 ***********************
 
-To align with industry trends, we will use several open source technologies in this class.  Writers should be aware of these options. The days of buying expensive software from large vendors, then being locked into that system, are over.
+To align with industry trends, we will use several open source technologies in
+this class.  Writers should be aware of these options. The days of buying
+expensive software from large vendors, then being locked into that system, are
+over.
 
-In addition, we're not just learning about the open source world, we are experiencing it.
+In addition, we're not just learning about the open source world, we are
+experiencing it.
 
 How? Let's look at the ways:
 
-* Much of the content of this course comes from freely available sources, such as Wikipedia, YouTube, and SlideShare. My role is to assemble sources into a coherent story that meets our objectives.
+* Much of the content of this course comes from freely available sources, such
+  as Wikipedia, YouTube, and SlideShare. My role is to assemble sources into a
+  coherent story that meets our objectives.
 
-* Content on |WP| and YouTube, two of our primary sources, is created by users, not owners. That is, these platforms derive their value from the aggregated efforts of the community, just as do the open source projects we will discuss.
+* Content on |WP| and YouTube, two of our primary sources, is created by
+  users, not owners. That is, these platforms derive their value from the
+  aggregated efforts of the community, just as do the open source projects we
+  will discuss.
 
-* This syllabus is created, stored, and hosted using only open source tools. This didn't cost a cent, and just about any aspect of it can be modified.
+* This syllabus is created, stored, and hosted using only open source tools.
+  This didn't cost a cent, and just about any aspect of it can be modified.
 
-* In fact, **this syllabus is open source**, with a Creative Commons license. You can, and are encouraged to, make it better and to share it, using the tools we will learn about.
+* In fact, **this syllabus is open source**, with a Creative Commons license.
+  You can, and are encouraged to, make it better and to share it, using the
+  tools we will learn about.
 
 .. include:: includes.txt
