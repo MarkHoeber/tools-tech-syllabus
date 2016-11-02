@@ -252,4 +252,20 @@
 
   <a href="https://www.sublimetext.com/" target="_blank">Sublime</a>
 
+.. |DITA Topics| raw:: html
 
+  <a href="https://docs.oasis-open.org/dita/v1.0/archspec/topicover.html" target="_blank">DITA Topics</a>
+
+.. |DITA Concepts| raw:: html
+
+  <a href="https://docs.oasis-open.org/dita/v1.0/archspec/dita_spec_22_info_concepts.html" target="_blank">DITA Concepts</a>
+
+.. |DTDs - Wikipedia| raw:: html
+
+  <a href="https://en.wikipedia.org/wiki/Document_type_definition" target="_blank">DTDs - Wikipedia</a>
+
+.. |XMLMind Download| raw:: html
+
+  <a href="http://xmlmind.com/xmleditor/download.shtml" target="_blank"> Download and Install XMLMind</a>
+
+  
