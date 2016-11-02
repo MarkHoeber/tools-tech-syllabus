@@ -37,7 +37,7 @@ Part 1
 Part 2 
 =========================
 
-Repeat the assignment in :ref:`DITA Introduction`, only this time use XMLSpy.  Add a **task** and a **reference** topic to your pull request.  Make sure to change the DTD declaration to point to the right DTD for the topic type.
+Repeat the assignment in :ref:`DITA Introduction`, only this time use XMLMind.  Add a **task** and a **reference** topic to your pull request.  Make sure to change the DTD declaration to point to the right DTD for the topic type.
 
 .. include:: snippets/save_github.txt
 
