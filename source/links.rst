@@ -268,4 +268,14 @@
 
   <a href="http://xmlmind.com/xmleditor/download.shtml" target="_blank"> Download and Install XMLMind</a>
 
+.. |DITA Map| raw:: html
+
+  <a href="http://dita.xml.org/what-dita-map" target="_blank">DITA Map</a>
+
+.. |DITA Map Elements| raw:: html
+
+  <a href="https://docs.oasis-open.org/dita/v1.2/os/spec/archSpec/ditamap-elements.html" target="_blank">DITA Map Elements</a>
+
+
+  
   
