@@ -1,7 +1,7 @@
 .. _Markdown:
 
-3a - Markdown
-#############################
+3 - Markdown
+######################################
 
 
 Goals
@@ -9,7 +9,8 @@ Goals
 
 * Learn the basic syntax of MarkDown.
 * Edit a page in MarkDown.
-* Learn to use Atom packages to improve the MarkDown editing experience.
+* Learn to use Sublime packages to improve the MarkDown editing experience.
+* Become acquainted with Jekyll.
 
 
 Readings
@@ -19,6 +20,10 @@ Readings
 * |What is Markdown|
 * |Markdown - Wikipedia|
 
+Hands-on Learning 
+***********************
+
+|Dillenger|
 
 MarkDown and Atom
 *******************
@@ -31,7 +36,6 @@ Videos
 *******
 
 .. include:: video_refs/markdown.txt
-
 
 
 Assignment

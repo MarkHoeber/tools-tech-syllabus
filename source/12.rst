@@ -1,11 +1,14 @@
-12 - Flare 2
+12 - Flare
 #############################
 
 
 Goals
 *********
 
-* 
+* Create a Flare document.
+* Learn how to format a document and manage styles.
+* Publish HTML and PDFs with FrameMaker.
+
 
 
 Readings

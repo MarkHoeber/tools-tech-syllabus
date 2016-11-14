@@ -276,6 +276,10 @@
 
   <a href="https://docs.oasis-open.org/dita/v1.2/os/spec/archSpec/ditamap-elements.html" target="_blank">DITA Map Elements</a>
 
+.. |Dillenger| raw:: html
+
+  <a href="http://dillinger.io/" target="_blank">Dillinger</a>
+
 
   
   

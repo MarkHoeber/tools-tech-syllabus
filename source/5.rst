@@ -1,30 +1,46 @@
-5- Jekyll
-###########
+.. _RST:
+
+5 - RST (reStructuredText)
+###################################
 
 
 Goals
 *********
 
-* To understand how to create a website using Markdown and Jekyll.
-* To edit and publish a basic Jekyll website.
+* Learn the basic syntax of RST.
+* Edit a page in RST.
+* Learn to use Atom packages to improve the RST editing experience.
+* Be prepared to create documentation sets in Sphinx.
 
 
 Readings
 *********
 
-* |Jekyll Home|
-* |Jekyll Docs|
-* |Jekyll Blog|
-* |How Jekyll Works|
+* |RST Wikipedia|
+* |Quick RST|
+* |RST Documentation|
+
+Video
+*****************
+
+.. include:: video_refs/rst.txt
+
+Practice
+*************
+
+|Online reStructuredText Editor|
+
+.. note:: Indentation is important in RST. Lots of problems are caused by inconsistent indentation. The only way to learn is to practice and see the results.
 
 
-Videos
-*********
+RST and Atom
+**************
 
-.. include:: video_refs/jekyll_doc.txt
+* |RST Language Support|
 
-.. include:: video_refs/jekyll_doc_challenges.txt
+* |RST Preview|
 
+* |RST Preview DocUtils Package|
 
 
 Assignment
@@ -32,68 +48,31 @@ Assignment
 
 |Assignment|
 
-Part 1
-=========
+#. Use |Online reStructuredText Editor| to create a short version of your resume (or something else if your prefer). Share the link in |GitHub - Issues|.
 
-#. Make a fork of |markhoeber.github.io| in your own GitHub account.
+#. Fork the |RST Templates Repository|.
 
-#. In *Settings*, change the name of your repository to ``your-github-username.github.io``.
+#. Read all the files in the repository.
 
-#. View your website at ``http://your-github-username.github.io``.
+#. In your repository, use the templates to create a documentation set.
 
-   This is the website created by the repository you just forked.
+   Start with the ``topic.rst`` file. Use at least 2 levels of headings.
 
-   The page should look like the following image.
+   Edit and rename files as needed.
 
-   .. image:: images/jekyll-site.png
-     :width: 400
+   You should use at least:
 
-#. Read the repository ReadMe for instructions on setting up your computer to work with Jekyll.
-
-#. Install Jekyll.
-
-#. Clone the repository to your computer.
-
-#. Create a new branch.
-
-#. To serve the website created by Jekyy, at the command prompt, enter: ``jekyll serve``.
-
-#. In your browser, go the the page ``http://localhost:4000/``.
-
-   At this step, the site should look the same as at ``http://your-github-username.github.io``.
-
-Part 2
-=========
-
-Look back to the class :ref:`Markdown`.
-
-#. In your branch, edit the file ``about.md``.  Add information about yourself.
-
-#. In the ``_posts`` directory, duplicate the existing post and give it a new name.
-
-   .. note:: You must use the following format for the filename:  ``yyyy-mm-dd-name.md``.
-
-#. Edit the new Markdown file to have whatever content you want. Use at least one image.
-
-#. In the command prompt, stop the Jekyll server by entering ``ctr+c``.
-
-#. Restart the Jekyll server by entering ``jekyll serve``.
-
-#. View ``http://localhost:4000/`` and verify your changes.
-
-#. Iterate through updating your post and restarting the server until you are satisfied with the results.
+   * 3 different pages.
+   * One table, one numbered list, one unordered list.
+   * One code block.
+   * One external link.
+   * One substitution.
+   * Two different conditions.
+   * One note and one caution.
+   * One image.
 
 .. include:: snippets/save_github.txt
 
-Then verify your changes at ``http://your-github-username.github.io``
-
-Extra Credit
-*************
-
-Modify the structure of your Jekyll site by editing templates in the ``_layouts`` directory. See |Jekyll Templates| for more information.
-
-Modify the styles of your site in the ``style.scss`` file. See :ref:`CSS` for reference.
-
-Recommended if you intend to do your final project in Jekyll.
+These files will form the basis of your Sphinx project in the :ref:`next lesson <Sphinx>`.
 
 .. include:: includes.txt

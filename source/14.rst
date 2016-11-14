@@ -1,11 +1,13 @@
-14 - Wordpress 2
+14 - Wordpress
 #############################
 
 
 Goals
 *********
 
-* 
+* Create a blog using Wordpress.
+* Learn how to do basic customization of your blog.
+
 
 
 Readings

@@ -1,11 +1,14 @@
-10 - FrameMaker 2
+10 - FrameMaker
 #############################
 
 
 Goals
 *********
 
-* 
+* Create a FrameMaker document.
+* Learn how to format a document and manage styles.
+* Publish PDFs with FrameMaker.
+ 
 
 
 Readings

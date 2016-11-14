@@ -7,7 +7,7 @@ You will complete a final project for this course.
 
 The project is to produce a substantial document through one of the tools we examine over the semester.
 
-You are expected to hand in a proposal for the project by **class 7**, so we can discuss your plans.
+You are expected to hand in a proposal for the project by **class 9**, so we can discuss your plans.
 
 I recommend doing the project in one of the markup Languages we work with in the first half of the course, for several reasons:
 
@@ -27,11 +27,6 @@ While you will complete your own project, you will have a partner. The partner's
 In addition, being a partner to another student will help you see project development from a different angle. You might think of things when looking at your partner's project that you would not see in your own work.
 
 Finally, having a partner, or "peer editor" is something you'll have to do as a professional technical writer.
-
-Proposal Format
-*****************
-
-TBD
 
 
 .. include:: includes.txt
