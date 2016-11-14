@@ -1,11 +1,13 @@
-13 - Wordpress 1
+13 - Flare
 #############################
 
 
 Goals
 *********
 
-* 
+* Reuse topics in Flare.
+* Modify HTML layout.
+
 
 
 Readings

@@ -29,16 +29,15 @@ Now that we've learned some HTML, it should be apparent that writing large volum
 .. toctree::
    :maxdepth: 1
 
-   3a
-   3b
-   4a
-   4b
+   3
+   4
    5
    6a
    6b
    7a
    7b
    8
+   9
 
 Publishing Systems
 *******************
@@ -48,7 +47,6 @@ There are many more robust publishing systems that we can use to develop content
 .. toctree::
    :maxdepth: 1
 
-   9
    10
    11
    12

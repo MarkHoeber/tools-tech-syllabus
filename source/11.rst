@@ -1,11 +1,14 @@
-11 - Flare 1
+11 - FrameMaker
 #############################
 
 
 Goals
 *********
 
-* 
+* Learn about advanced capabilities of Frame, such as conditional text, variables, indexing, and cross references.
+* Assemble a book from several Frame documents.
+* Use FrameMaker to edit DITA content.
+
 
 
 Readings

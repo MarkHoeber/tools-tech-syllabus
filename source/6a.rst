@@ -1,87 +1,113 @@
-.. _XML:
+.. _Sphinx:
 
+6a - Sphinx
+###################################
 
-6a - XML
-#############################
+Sphinx is a tool for compiling sets of RST files into an HTML document. (It also creates many other formats.)
 
+We will use Sphinx to publish the RST content we created in the previous class.
 
 Goals
 *********
 
-* Understand what XML is and its role in writing and publishing content.
-* Understand that XML brings *semantic meaning* to content.
+* To understand the role of Sphinx in building documentation.
+
+* To learn how to organize a Sphinx document and reuse content.
+
+* To build a documentation set with Sphinx.
 
 
 Readings
 *********
 
-* |XML Tutorial|
+* |Sphinx Overview|
+* |First Steps with Sphinx|
 
-* |XML - Wikipedia|
 
 Videos
 *******
 
-.. include:: video_refs/xml_get_started.txt
+.. include:: video_refs/sphinx_intro.txt
 
-.. include:: video_refs/xml_create_doc.txt
+.. include:: video_refs/sphinx_tutorial.txt
 
-Sublime for XML
-***********************
 
-Install the following packages to make it easier to edit XML in Atom.
+Install Sphinx
+****************
 
-* |XML-tools Atom|
+To build your HTML document on your computer, you must install Sphinx.
 
-* |XML Formatter Atom|
+#. If you are using Windows, you might need to |Python Install|.
+
+   Depending on your Windows setup, after installation you might need to manually add the Python directory to your path.
+
+   If you are using a Mac, it's probably installed.
+
+#. |PIP Install|.
+
+   Depending on your Windows setup, after installation you might need to manually add the PIP directory to your path.
+
+#. Use PIP to install Sphinx. On the command line, enter::
+
+   $ pip install Sphinx
 
 
 Assignment
-************
+*************
 
 |Assignment|
 
-#. Create a new repository in Github.
+Part 1
+=========
 
-#. Create a new branch.
+#. Make a fork of |Get Started Sphinx Repo| in your own GitHub account.
 
-#. Add an XMl file in the branch.
+#. Read the repository ReadMe.
 
-   Look at content you created in an earlier lesson.  Think about how it can be organized by semantic meaning.
+#. Check out your repository on your computer.
 
-   Here are a few examples:
+#. Open a command prompt and change directories to the ``get_started_sphinx`` directory.
 
-   .. code-block:: XML
-     :linenos:
+#. Run the command ``make html``.  Check if there are warnings or errors in the command window. There should not be.
 
-     <page>
-       <author>Your name</author>
-       <title>The Title</title>
-       <abstract>Two sentence abstract.</abstract>
-       <body>
-         <pargraph>First paragraph</paragraph>
-         <pargraph>Second paragraph</pargraph>
-       </body>
-     </page>
+#. Check for the HTML output in the ``get_started_sphinx/build/html`` directory.
 
+#. Open the file ``index.html``.
 
-   .. code-block:: XML
-     :linenos:
+   The page should look like the following image.
 
-     <people>
-       <person>
-         <age>3</age>
-         <sex>M</sex>
-         <name preferred="Joe">Joseph</name>
-       </person>
-     </people>
+   .. image:: images/get_started_sphinx.png
+     :width: 600
 
-#. Add data in the file.
+Make sure you complete these steps with no warnings or errors before proceeding.
 
-   Use at least 4 elements and one attribute.
+Part 2
+=========
 
+Look back to the last class on :ref:`RST`. Review the files in |RST Templates Repository|, and the files your created as part of that assignment.
+
+You can use the content of those files.  Add them into the your fork of the repository, or copy the content into the files that are already part of the Sphinx project. The same requirements apply.
+
+When you have added content to RST files in the Sphinx project:
+
+#. Run the command ``make html``.  Check if there are warnings or errors in the command window. Fix those issues.  Use Google, or |GitHub - Issues| if you get stuck.
+
+#. Check for the HTML output in the ``get_started_sphinx/build/html`` directory.
+
+#. Open the file ``index.html``. Check that the content is what you expect.
+
+#. Iterate over these steps until the document is what you intended.
 
 .. include:: snippets/save_github.txt
+
+Extra Credit
+***************
+
+* Change the Sphinx theme by changing the value of ``html_theme`` in the ``conf.py`` file. Search Sphinx documentation for more information.
+
+* Checkout the |Tools and Technology Repo| (the source for this syllabus). Examine how the document is organized. Create a branch and make an improvement in this syllabus. Build it locally and ensure it comes out as you expect. Then submit a pull request.
+
+Recommended if you intend to do your final project in Sphinx.
 
 
 .. include:: includes.txt

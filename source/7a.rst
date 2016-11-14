@@ -1,44 +1,87 @@
-7a - DITA
+.. _XML:
+
+
+7a - XML
 #############################
 
 
 Goals
 *********
 
-* Deepen the understanding of DITA.
-
-* Understand DTDs and validation.
-
-* Use |XMLmind| to learn how to work with tools designed for DITA.
-
+* Understand what XML is and its role in writing and publishing content.
+* Understand that XML brings *semantic meaning* to content.
 
 
 Readings
 *********
 
-* |DITA Topics| (Read carefully)
+* |XML Tutorial|
 
-* |DTDs - Wikipedia| 
+* |XML - Wikipedia|
 
-* |XMLmind Tutorials| - Getting Started lessons
+Videos
+*******
+
+.. include:: video_refs/xml_get_started.txt
+
+.. include:: video_refs/xml_create_doc.txt
+
+Sublime for XML
+***********************
+
+Install the following packages to make it easier to edit XML in Atom.
+
+* |XML-tools Atom|
+
+* |XML Formatter Atom|
 
 
 Assignment
 ************
 
-|Assignment| 
+|Assignment|
 
-Part 1 
-=========================
+#. Create a new repository in Github.
 
-|XMLMind Download|.
+#. Create a new branch.
+
+#. Add an XMl file in the branch.
+
+   Look at content you created in an earlier lesson.  Think about how it can be organized by semantic meaning.
+
+   Here are a few examples:
+
+   .. code-block:: XML
+     :linenos:
+
+     <page>
+       <author>Your name</author>
+       <title>The Title</title>
+       <abstract>Two sentence abstract.</abstract>
+       <body>
+         <pargraph>First paragraph</paragraph>
+         <pargraph>Second paragraph</pargraph>
+       </body>
+     </page>
 
 
-Part 2 
-=========================
+   .. code-block:: XML
+     :linenos:
 
-Repeat the assignment in :ref:`DITA Introduction`, only this time use XMLMind.  Add a **task** and a **reference** topic to your pull request.  Make sure to change the DTD declaration to point to the right DTD for the topic type.
+     <people>
+       <person>
+         <age>3</age>
+         <sex>M</sex>
+         <name preferred="Joe">Joseph</name>
+       </person>
+     </people>
+
+#. Add data in the file.
+
+   Use at least 4 elements and one attribute.
+
 
 .. include:: snippets/save_github.txt
+
 
 .. include:: includes.txt
