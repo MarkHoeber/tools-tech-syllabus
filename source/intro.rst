@@ -62,10 +62,10 @@ of the class can collaborate with you.
 
 We will discuss GitHub in the 1st class.  Do the reading before then.
 
-Sublime 
+Editors 
 ***********************
 
-For most assignments, we will use Sublime| to edit files.
+For most assignments, we will use Sublime to edit files.
 
 We will discuss Sublime in the 1st class.  Do the reading before then.
 

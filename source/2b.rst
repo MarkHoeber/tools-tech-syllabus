@@ -1,16 +1,20 @@
 .. _CSS:
 
 2b - CSS
-########################
+#########
 
+Most HTML content is formatted and styled with CSS code.
+
+CSS is most heavily used by web designers.  However, because CSS has such a
+high impact on how users experience content, it is essential for writers to
+have a basic understand of how it works.
 
 Goals
 *********
 
 * Gain a basic understanding of CSS.
 
-* Be able to modify the look and style of your web page with CSS.
-
+* Modify the look and style of your web page with CSS.
 
 Readings
 *********
@@ -30,17 +34,20 @@ Videos
 
 .. include:: video_refs/chrome_inspector.txt
 
-
 Assignment
 ************
 
 |Assignment|
 
-Find a partner for this assignment.  You should work together, though you only need to complete these steps for one repository.
+Find a partner for this assignment.  You should work together, though you only
+need to complete these steps for one repository.
 
-Follow the GitHub flow to complete this assignment. You can complete the assignment through the browser, or through GitHub Desktop and Atom (or another text editor).
+Follow the GitHub flow to complete this assignment. You can complete the
+assignment through the browser, or through GitHub Desktop and Atom (or another
+text editor).
 
-.. note:: The goal of this exercise is to learn the mechanics of editing styles in a web page.  It is not a design contest.
+.. note:: The goal of this exercise is to learn the mechanics of editing
+  styles in a web page.  It is not a design contest.
 
 #. Create a new branch in your **Get Started HMTL** repo.
 
@@ -63,7 +70,8 @@ Follow the GitHub flow to complete this assignment. You can complete the assignm
 
 #. For the ``aside`` element:
 
-   * Move the ``aside`` element so that it appears next to ``article``, aligned on the right side.
+   * Move the ``aside`` element so that it appears next to ``article``,
+     aligned on the right side.
    * Make the ``h2`` smaller than the ``h2`` for ``article``.
    * Change the style of the ``header`` however you see fit.
    * Indent the ``p`` element.
@@ -71,7 +79,8 @@ Follow the GitHub flow to complete this assignment. You can complete the assignm
 
 #. Make the footer smaller.
 
-#. Continue editing the styles and refreshing the web page until you are satisfied.
+#. Continue editing the styles and refreshing the web page until you are
+   satisfied.
 
 .. include:: snippets/save_github.txt
 
