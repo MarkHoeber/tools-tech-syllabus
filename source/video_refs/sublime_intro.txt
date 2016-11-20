@@ -1,0 +1,13 @@
+.. raw:: html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SVkR1ZkNusI?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK" frameborder="0" allowfullscreen></iframe>
+   <br/>
+  
+.. note::  In the upper left of the video, you'll see a playlist icon.  This
+  indicates the video is part of a series.  Click the icon to open the list of
+  videos in the series.  View each one.
+
+.. raw:: html
+
+  <hr/>
+  <br/>

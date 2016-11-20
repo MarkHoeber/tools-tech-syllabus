@@ -281,5 +281,22 @@
   <a href="http://dillinger.io/" target="_blank">Dillinger</a>
 
 
-  
+.. |GitHub - Proposals| raw:: html
+
+  <a href="https://github.com/MarkHoeber/tools-tech-syllabus/issues/29" target="_blank">GitHub - Proposals</a>
+
+.. |Sublime Home| raw:: html
+
+  <a href="https://www.sublimetext.com/" target="_blank">Sublime Home</a>
+
+.. |Sublime - Unofficial Documentation| raw:: html
+
+  <a href="http://docs.sublimetext.info/en/latest/" target="_blank">Sublime - Unofficial Documentation</a>
+
+.. |HTML Beautify| raw:: html
+
+  <a href="HTML Beautify" target="_blank">HTML Beautify</a>
+
+
+
   

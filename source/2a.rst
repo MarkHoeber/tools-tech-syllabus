@@ -1,5 +1,13 @@
 2a - HTML
-########################
+############
+
+Most of the content we deliver on line is in HTML.
+
+In later lessons, we will use a variety of tools that make creating HTML easier.
+
+Although these tools help us avoid the verbosity of HTML, it is very helpful
+to know HTMl basics, which is why we start the course working directly with
+HTML.
 
 
 Goals
@@ -33,7 +41,9 @@ Assignment
 
 |Assignment| 
 
-Follow the GitHub flow to complete this assignment. After you fork the repository, you can complete the assignment through the browser, or through GitHub Desktop and Atom (or another text editor).
+Follow the GitHub flow to complete this assignment. After you fork the
+repository, you can complete the assignment through the browser, or through
+GitHub Desktop and Atom (or another text editor).
 
 #. Make a fork of |Get Started HMTL Repo| in your own GitHub account.
 
@@ -43,7 +53,8 @@ Follow the GitHub flow to complete this assignment. After you fork the repositor
 
 #. Give the page a title.
 
-#. In the two ``article`` elements, add something about yourself, with a title and description.
+#. In the two ``article`` elements, add something about yourself, with a title
+   and description.
 
 #. In the first ``aside``, add a picture and description.
    
@@ -51,13 +62,15 @@ Follow the GitHub flow to complete this assignment. After you fork the repositor
 
 #. Add an ``id`` attribute to each ``article`` element.
 
-#. In the ``nav`` element, change the text of the link to match the article titles, and add links to each ID.
+#. In the ``nav`` element, change the text of the link to match the article
+   titles, and add links to each ID.
 
    For information on adding links to IDs, see |HMTL Links|.
 
 #. Save the file, then open it in a browser and check it out.
 
-#. Edit the file as needed, then view again. Keep repeating until you are satisfied.
+#. Edit the file as needed, then view again. Keep repeating until you are
+   satisfied.
    
 .. include:: snippets/save_github.txt
 
@@ -74,7 +87,8 @@ You now have a web page that you, and your friends and family, can view.
    
 #. Click **Save**.
 
-The URL of your new website is now listed. Open it.  If you don't like something in your web page, edit the ``index.html`` file again.
+The URL of your new website is now listed. Open it.  If you don't like
+something in your web page, edit the ``index.html`` file again.
 
 Extra Credit
 *************
