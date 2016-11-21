@@ -298,5 +298,9 @@
   <a href="HTML Beautify" target="_blank">HTML Beautify</a>
 
 
+.. |Python Windows Install| raw:: html
+
+  <a href="https://www.youtube.com/watch?v=L5t5U0XnSew" target="_blank">Python Windows Install Video</a>
+
 
   
