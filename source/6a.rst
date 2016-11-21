@@ -39,7 +39,7 @@ To build your HTML document on your computer, you must install Sphinx.
 
 #. If you are using Windows, you might need to |Python Install|.
 
-   Depending on your Windows setup, after installation you might need to manually add the Python directory to your path.
+   Depending on your Windows setup, after installation you might need to manually add the Python directory to your path. Try the |Python Windows Install| for help.
 
    If you are using a Mac, it's probably installed.
 
