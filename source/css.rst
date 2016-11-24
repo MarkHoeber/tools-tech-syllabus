@@ -1,6 +1,6 @@
 .. _CSS:
 
-2b - CSS
+CSS
 #########
 
 Most HTML content is formatted and styled with CSS code.

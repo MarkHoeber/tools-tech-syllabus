@@ -1,7 +1,9 @@
-1b - Editor Setup
+Sublime
 ########################################
 
-For classes 1 - 9, we will be using Sublime, which lets you edit plain text.
+We will use Sublime when working with markup languages. Sublime lets you edit
+plain text, and includes many packages that help with specific languages.
+
 Through there are various tools to make work easier, working in plain text
 will give you a better understanding of the subjects we will cover. You can
 choose to use other plain text tools, such as Atom, Notepad, or Visual

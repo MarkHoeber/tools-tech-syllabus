@@ -1,12 +1,13 @@
-13 - Flare
+Flare Part 1
 #############################
 
 
 Goals
 *********
 
-* Reuse topics in Flare.
-* Modify HTML layout.
+* Create a Flare document.
+* Learn how to format a document and manage styles.
+* Publish HTML and PDFs with FrameMaker.
 
 
 

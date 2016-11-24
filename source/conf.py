@@ -37,4 +37,5 @@ html_theme_options = {
   #'bootswatch_theme': "Sandstone"
 }
 
-exclude_patterns = ['links.rst', 'substitutions.rst', 'atom.rst']
+exclude_patterns = ['links.rst', 'substitutions.rst', 'atom.rst', 
+  'unused/3.rst', 'unused/4.rst', 'unused/14.rst']

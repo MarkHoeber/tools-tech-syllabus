@@ -1,4 +1,4 @@
-16 - Project Presentations
+Project Presentations
 ##################################
 
 

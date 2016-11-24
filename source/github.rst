@@ -1,4 +1,4 @@
-1a - GitHub
+GitHub
 ###############
 
 GitHub is a free online service that we will use to manage content. More and more companies are using GitHub, or similar services, today.
