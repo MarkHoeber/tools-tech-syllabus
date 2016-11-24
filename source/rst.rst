@@ -1,6 +1,6 @@
 .. _RST:
 
-5 - RST (reStructuredText)
+RST (reStructuredText)
 ###################################
 
 

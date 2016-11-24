@@ -1,11 +1,13 @@
 .. _Sphinx:
 
-6a - Sphinx
+Sphinx
 ###################################
 
-Sphinx is a tool for compiling sets of RST files into an HTML document. (It also creates many other formats.)
+Sphinx is a tool for compiling sets of RST files into an HTML document. (You
+can also use Sphinx to create many other document formats.)
 
-We will use Sphinx to publish the RST content we created in the previous class.
+We will use Sphinx to publish the RST content we created in the previous class
+as HTML .
 
 Goals
 *********
@@ -16,13 +18,11 @@ Goals
 
 * To build a documentation set with Sphinx.
 
-
 Readings
 *********
 
 * |Sphinx Overview|
 * |First Steps with Sphinx|
-
 
 Videos
 *******
@@ -30,7 +30,6 @@ Videos
 .. include:: video_refs/sphinx_intro.txt
 
 .. include:: video_refs/sphinx_tutorial.txt
-
 
 Install Sphinx
 ****************
@@ -50,7 +49,6 @@ To build your HTML document on your computer, you must install Sphinx.
 #. Use PIP to install Sphinx. On the command line, enter::
 
    $ pip install Sphinx
-
 
 Assignment
 *************
@@ -103,11 +101,14 @@ When you have added content to RST files in the Sphinx project:
 Extra Credit
 ***************
 
-* Change the Sphinx theme by changing the value of ``html_theme`` in the ``conf.py`` file. Search Sphinx documentation for more information.
+* Change the Sphinx theme by changing the value of ``html_theme`` in the
+  ``conf.py`` file. Search Sphinx documentation for more information.
 
-* Checkout the |Tools and Technology Repo| (the source for this syllabus). Examine how the document is organized. Create a branch and make an improvement in this syllabus. Build it locally and ensure it comes out as you expect. Then submit a pull request.
+* Checkout the |Tools and Technology Repo| (the source for this syllabus).
+  Examine how the document is organized. Create a branch and make an
+  improvement in this syllabus. Build it locally and ensure it comes out as
+  you expect. Then submit a pull request.
 
 Recommended if you intend to do your final project in Sphinx.
-
 
 .. include:: includes.txt

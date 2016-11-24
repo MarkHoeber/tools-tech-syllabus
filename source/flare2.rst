@@ -1,12 +1,12 @@
-15 - Choice and Projects
-###############################
+Flare Part 2
+#############################
 
 
 Goals
 *********
 
-* Cover any questions and explore other technologies as requested.
-* Work and collaboration on projects. 
+* Reuse topics in Flare.
+* Modify HTML layout.
 
 
 

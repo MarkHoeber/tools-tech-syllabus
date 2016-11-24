@@ -1,13 +1,12 @@
-12 - Flare
-#############################
+Choice and Projects
+###############################
 
 
 Goals
 *********
 
-* Create a Flare document.
-* Learn how to format a document and manage styles.
-* Publish HTML and PDFs with FrameMaker.
+* Cover any questions and explore other technologies as requested.
+* Work and collaboration on projects. 
 
 
 

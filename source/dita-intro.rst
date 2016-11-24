@@ -1,7 +1,6 @@
 .. _DITA Introduction:
 
-
-7b - DITA Introduction
+DITA Introduction
 #############################
 
 

@@ -1,4 +1,4 @@
-6b - Read the Docs
+Read the Docs
 ###################
 
 |RTD| is a free service that publishes and hosts documentation.
@@ -33,7 +33,5 @@ Assignment
 #. Create an account on |RTD Home|.
 #. Set up a project to publish the document in your GitHub repository.
 #. Share the URL of your project in |GitHub - Issues|.
-
-
 
 .. include:: includes.txt

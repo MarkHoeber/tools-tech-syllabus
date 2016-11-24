@@ -1,4 +1,4 @@
-2a - HTML
+HTML
 ############
 
 Most of the content we deliver on line is in HTML.
