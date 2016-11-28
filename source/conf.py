@@ -15,7 +15,7 @@ project = u'Tools and Technologies for Technical Writers'
 copyright = u'2016, Mark Hoeber'
 author = u'Mark Hoeber'
 
-
+googleanalytics_id = 'UA-88078032-1'
 
 pygments_style = 'sphinx'
 
