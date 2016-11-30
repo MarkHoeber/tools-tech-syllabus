@@ -58,4 +58,12 @@ Assignment
 
 In addition, go to |GitHub - Issues| and introduce yourself and add your GitHub username in the appropriate threads.
 
+Extra Credit 
+***********************
+
+Explore the |GitHub Training| site.  
+
+You do not need to know everything in the training for this course, but it
+will prove valuable in future jobs.
+
 .. include:: includes.txt
