@@ -302,5 +302,9 @@
 
   <a href="https://www.youtube.com/watch?v=L5t5U0XnSew" target="_blank">Python Windows Install Video</a>
 
+.. |GitHub Training| raw:: html
+
+  <a href="https://services.github.com/training/" target="_blank">GitHub Training</a>
+
 
   
