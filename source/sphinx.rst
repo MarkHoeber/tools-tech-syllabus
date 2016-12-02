@@ -88,7 +88,7 @@ You can use the content of those files.  Add them into the your fork of the repo
 
 When you have added content to RST files in the Sphinx project:
 
-#. Run the command ``make html``.  Check if there are warnings or errors in the command window. Fix those issues.  Use Google, or |GitHub - Issues| if you get stuck.
+#. Run the command ``make html``.  Check if there are warnings or errors in the command window. Fix those issues.  Use Google, or :xref:`GitHub Issues` if you get stuck.
 
 #. Check for the HTML output in the ``get_started_sphinx/build/html`` directory.
 

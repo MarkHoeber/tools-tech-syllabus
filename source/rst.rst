@@ -48,7 +48,7 @@ Assignment
 
 |Assignment|
 
-#. Use |Online reStructuredText Editor| to create a short version of your resume (or something else if your prefer). Share the link in |GitHub - Issues|.
+#. Use |Online reStructuredText Editor| to create a short version of your resume (or something else if your prefer). Share the link in :xref:`GitHub Issues`.
 
 #. Fork the |RST Templates Repository|.
 

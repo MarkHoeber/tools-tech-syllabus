@@ -1,15 +1,6 @@
 
-.. OS Sites
 
 
-
-.. |GitHub - Join| raw:: html
-
-  <a href="https://github.com/join" target="_blank">Join GitHub</a>
-
-.. |GitHub - Issues| raw:: html
-
-  <a href="https://github.com/MarkHoeber/tools-tech-syllabus/issues" target="_blank">GitHub Issues</a>
 
 .. |GitHub - OS| raw:: html
 

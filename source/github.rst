@@ -50,13 +50,13 @@ Assignment
 
 |Assignment| 
 
-#. |GitHub - Join|.
+#. :xref:`GitHub Join`.
 
 #. Follow steps in |GitHub - Hello World|.
 
 #. |GitHub - Setup|.
 
-In addition, go to |GitHub - Issues| and introduce yourself and add your GitHub username in the appropriate threads.
+In addition, go to :xref:`GitHub Issues` and introduce yourself and add your GitHub username in the appropriate threads.
 
 Extra Credit 
 ***********************
