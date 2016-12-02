@@ -1,9 +1,11 @@
 GitHub
 ###############
 
-GitHub is a free online service that we will use to manage content. More and more companies are using GitHub, or similar services, today.
+GitHub is a free online service that we will use to manage content. More and
+more companies are using GitHub, or similar services, today.
 
-We will use GitHub for most of the exercises in this course, so it is critical to go through all the readings and videos in this lesson.
+We will use GitHub for most of the exercises in this course, so it is critical
+to go through all the readings and videos in this lesson.
 
 Goals
 *********
@@ -17,13 +19,13 @@ Goals
 Readings
 *********
 
-* |GitHub - Conquer|
+* :xref:`GitHub Conquer`
 
-* |GitHub - Wikipedia|
+* :xref:`GitHub Wikipedia`
 
-* |GitHub - OS|
+* :xref:`GitHub OS`
 
-* |GitHub - Hello World|
+* :xref:`GitHub Hello World`
 
 Videos
 *******
@@ -52,16 +54,17 @@ Assignment
 
 #. :xref:`GitHub Join`.
 
-#. Follow steps in |GitHub - Hello World|.
+#. Follow steps in :xref:`GitHub Hello World`.
 
-#. |GitHub - Setup|.
+#. :xref:`GitHub Setup`.
 
-In addition, go to :xref:`GitHub Issues` and introduce yourself and add your GitHub username in the appropriate threads.
+In addition, go to :xref:`GitHub Issues` and introduce yourself and add your
+GitHub username in the appropriate threads.
 
 Extra Credit 
 ***********************
 
-Explore the |GitHub Training| site.  
+Explore the :xref:`GitHub Training` site.  
 
 You do not need to know everything in the training for this course, but it
 will prove valuable in future jobs.
