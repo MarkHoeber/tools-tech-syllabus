@@ -33,7 +33,7 @@ Videos
 Get Started with GitHub
 ========================
 
-.. include:: video_refs/github_about.txt
+.. youtube:: VUaBfYCmJls
 
 .. include:: video_refs/github_beginners.txt
 

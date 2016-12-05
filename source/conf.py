@@ -5,7 +5,7 @@ import sphinx_bootstrap_theme
 sys.path.append(os.path.abspath('ext'))
 sys.path.append('.')
 
-extensions = ['xref']
+extensions = ['xref', 'youtube']
 
 from links.link import *
 
