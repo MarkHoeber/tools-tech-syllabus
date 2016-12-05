@@ -1,39 +1,9 @@
 
-.. OS Sites
 
 
 
-.. |GitHub - Join| raw:: html
 
-  <a href="https://github.com/join" target="_blank">Join GitHub</a>
 
-.. |GitHub - Issues| raw:: html
-
-  <a href="https://github.com/MarkHoeber/tools-tech-syllabus/issues" target="_blank">GitHub Issues</a>
-
-.. |GitHub - OS| raw:: html
-
-  <a href="https://github.com/open-source" target="_blank">GitHub - Open Source</a>
-
-.. |GitHub - Hello World| raw:: html
-
-  <a href="https://guides.github.com/activities/hello-world/" target="_blank">GitHub - Hello World</a>
-
-.. |GitHub - Setup| raw:: html
-
-  <a href="https://help.github.com/desktop/guides/getting-started/setting-up-github-desktop/" target="_blank">Set up GitHub Desktop</a>
-
-.. |GitHub - Flow| raw:: html
-
-  <a href="https://guides.github.com/introduction/flow/" target="_blank">Understanding the GitHub Flow</a>
-
-.. |GitHub - Wikipedia| raw:: html
-
-  <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">GitHub - Wikipedia</a>
-
-.. |GitHub - Conquer| raw:: html
-
-  <a href="http://www.wired.com/2015/03/github-conquered-google-microsoft-everyone-else/" target="_blank">How GitHub Conqured Google, Microsoft, and Everyone Else</a>
 
 .. |Atom| raw:: html
 
@@ -302,9 +272,6 @@
 
   <a href="https://www.youtube.com/watch?v=L5t5U0XnSew" target="_blank">Python Windows Install Video</a>
 
-.. |GitHub Training| raw:: html
-
-  <a href="https://services.github.com/training/" target="_blank">GitHub Training</a>
 
 
   

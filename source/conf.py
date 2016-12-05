@@ -1,8 +1,13 @@
+import sys, os
 import sphinx_rtd_theme
 import sphinx_bootstrap_theme
 
+sys.path.append(os.path.abspath('ext'))
+sys.path.append('.')
 
-extensions = []
+extensions = ['xref']
+
+from links.link import *
 
 templates_path = ['_templates']
 html_static_path = ["_static"]
@@ -21,8 +26,6 @@ pygments_style = 'sphinx'
 
 
 todo_include_todos = True
-
-
 
 
 html_theme = 'bootstrap'

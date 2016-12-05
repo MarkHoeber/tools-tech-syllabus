@@ -55,9 +55,9 @@ Many of you will use GitHub or a similar system in your future jobs, so this
 is a good opportunity to learn more about it.To get started, create an GitHub
 account.
 
-|GitHub - Join|
+:xref:`GitHub Join`
 
-Then add your GitHub user name to the |GitHub - Issues| discussion so the rest
+Then add your GitHub user name to the :xref:`GitHub Issues` discussion so the rest
 of the class can collaborate with you.
 
 We will discuss GitHub in the 1st class.  Do the reading before then.
@@ -83,7 +83,7 @@ You must bring curiosity and enthusiasm for hands on work.
 
 You must do the reading and watch videos before class, so we can use class
 time for discussion and hands-on learning. If you get stuck, search for
-answers first, then ask on our class |GitHub - Issues| page.
+answers first, then ask on our class :xref:`GitHub Issues` page.
 
 I've selected what I think are good articles and videos for this class.  But
 there are many more. You are encouraged to search on your own, and if you
@@ -106,7 +106,7 @@ Class Discussions
 
 Active class participation, both in our weekly meetings and online, is a must.
 
-We will use the |GitHub - Issues| page of this syllabus to discuss questions online. 
+We will use the :xref:`GitHub Issues` page of this syllabus to discuss questions online. 
 
 GitHub issues function much like a discussion board. You can start a new
 issue, and comment on existing issues. Issues are Open or Closed.  I'll close
@@ -132,8 +132,7 @@ technologies.
 
 I will comment extensively on your work and answer questions.
 
-I also expect you to help your peers.  If you see a question in |GitHub -
-Issues|, don't wait for me. Try to offer good suggestions.
+I also expect you to help your peers.  If you see a question in :xref:`GitHub Issues`, don't wait for me. Try to offer good suggestions.
 
 There is also a :ref:`Project` due at the end of the term. The project will
 allow you to work more deeply with a chosen technology.

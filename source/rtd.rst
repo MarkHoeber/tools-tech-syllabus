@@ -32,6 +32,6 @@ Assignment
 
 #. Create an account on |RTD Home|.
 #. Set up a project to publish the document in your GitHub repository.
-#. Share the URL of your project in |GitHub - Issues|.
+#. Share the URL of your project in :xref:`GitHub Issues`.
 
 .. include:: includes.txt
