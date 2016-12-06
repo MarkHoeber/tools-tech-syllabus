@@ -22,8 +22,7 @@ Readings
 Videos
 *******
 
-.. include:: video_refs/rtd.txt
-
+.. youtube:: eon0B4k1-KA
 
 Assignment
 ************

@@ -29,7 +29,7 @@ Readings
 Videos
 *******
 
-.. include:: video_refs/dita_101.txt
+.. youtube:: ngHIIWbEp_Q?list=PL6798EBA382414741
 
 .. include:: snippets/video_series.txt
 

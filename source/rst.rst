@@ -23,7 +23,8 @@ Readings
 Video
 *****************
 
-.. include:: video_refs/rst.txt
+.. youtube:: hM4I58TA72g
+
 
 Practice
 *************
