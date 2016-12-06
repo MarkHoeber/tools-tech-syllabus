@@ -21,9 +21,9 @@ Readings
 Videos
 *******
 
-.. include:: video_refs/xml_get_started.txt
+.. youtube:: Q0k5ySZGPBc
 
-.. include:: video_refs/xml_create_doc.txt
+.. youtube:: UqwGSo82cwU
 
 Sublime for XML
 ***********************

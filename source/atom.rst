@@ -25,12 +25,12 @@ Videos
 Install Atom
 ===============
 
-.. include:: video_refs/atom_intro.txt
+.. youtube:: EyG20hhON6E
 
 Learn Atom
 ============
 
-.. include:: video_refs/atom_series.txt
+.. youtube:: WWwBQQOGllo
 
 .. include:: snippets/video_series.txt
 

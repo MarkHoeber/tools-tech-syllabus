@@ -27,9 +27,9 @@ Readings
 Videos
 *******
 
-.. include:: video_refs/sphinx_intro.txt
+.. youtube:: QNHM7q2hLh8
 
-.. include:: video_refs/sphinx_tutorial.txt
+.. youtube:: QNHM7q2hLh8
 
 Install Sphinx
 ****************

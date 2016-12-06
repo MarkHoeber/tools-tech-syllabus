@@ -33,8 +33,7 @@ Readings
 Videos
 *******
 
-.. include:: video_refs/html5_intro.txt
-
+.. youtube:: x4OKqZ2kIx4
 
 Assignment
 ************

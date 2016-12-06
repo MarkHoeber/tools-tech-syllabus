@@ -27,13 +27,16 @@ Videos
 Install Sublime
 ===============
 
-.. include:: video_refs/sublime_install.txt
+.. youtube:: W9q8CwDKIEw
 
 Learn Sublime
 ==============
 
-.. include:: video_refs/sublime_intro.txt
+.. youtube:: SVkR1ZkNusI?list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK
 
+.. note::  In the upper left of the video, you'll see a playlist icon.  This
+  indicates the video is part of a series.  Click the icon to open the list of
+  videos in the series.  View each one.
 
 Assignment
 ************

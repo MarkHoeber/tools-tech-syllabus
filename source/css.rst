@@ -30,9 +30,14 @@ Readings
 Videos
 *******
 
-.. include:: video_refs/css_intro.txt
+.. youtube:: qKoajPPWpmo?list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C
 
-.. include:: video_refs/chrome_inspector.txt
+.. note::  In the upper left of the video, you'll see a playlist icon.  This
+  indicates the video is part of a series.  Click the icon to open the list of
+  videos in the series.  View each one.
+
+.. youtube:: nV9PLPFTnkE
+
 
 Assignment
 ************

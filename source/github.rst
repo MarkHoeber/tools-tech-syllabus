@@ -35,17 +35,17 @@ Get Started with GitHub
 
 .. youtube:: VUaBfYCmJls
 
-.. include:: video_refs/github_beginners.txt
+.. youtube:: E8TXME3bzNs
 
 GitHub Flow
 =============
 
-.. include:: video_refs/github_flow.txt
+.. youtube:: 9bP4-ly2qtQ
 
 GitHub Desktop
 ===============
 
-.. include:: video_refs/github_desktop.txt
+.. youtube:: kFix7UDJ7LA
 
 Assignment
 ************
