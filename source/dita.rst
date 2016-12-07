@@ -9,18 +9,18 @@ Goals
 
 * Understand DTDs and validation.
 
-* Use |XMLmind| to learn how to work with tools designed for DITA.
+* Use :xref:`XMLmind` to learn how to work with tools designed for DITA.
 
 
 
 Readings
 *********
 
-* |DITA Topics| (Read carefully)
+* :xref:`DITA Topics` (Read carefully)
 
-* |DTDs - Wikipedia| 
+* :xref:`DTDs Wikipedia`
 
-* |XMLmind Tutorials| - Getting Started lessons
+* :xref:`XMLmind Tutorials` - Getting Started lessons
 
 
 Assignment
@@ -31,7 +31,7 @@ Assignment
 Part 1 
 =========================
 
-|XMLMind Download|.
+:xref:`XMLmind Download`
 
 
 Part 2 

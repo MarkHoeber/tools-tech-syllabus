@@ -18,13 +18,13 @@ Introduction
 Readings
 *********
 
-* |DITA - Wikipedia|
+* :xref:`DITA Wikipedia`
 
-* |DITA Tutorial|
+* :xref:`DITA Tutorial`
 
-* |DITA FAQs|
+* :xref:`DITA FAQs`
 
-* |DITA Concepts|
+* :xref:`DITA Concepts`
 
 Videos
 *******
@@ -82,7 +82,7 @@ Assignment
 
 #. Validate the file against the DTD for the topic type.
 
-   .. note:: You must set the ``DOCTYPE`` declaration to the path and name of the DTD. Take a look at the sample files in the |Get Started with DITA repository|.  Copy the ``dtd1.2`` folder from there into your branch, and validate your file against the concpet, task, or 
+   .. note:: You must set the ``DOCTYPE`` declaration to the path and name of the DTD. Take a look at the sample files in the :xref:`Get Started with DITA repository`.  Copy the ``dtd1.2`` folder from there into your branch, and validate your file against the concpet, task, or 
 
 .. include:: snippets/save_github.txt
 

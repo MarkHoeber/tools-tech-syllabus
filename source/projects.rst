@@ -44,7 +44,7 @@ a professional technical writer.
 Proposals 
 ***********************
 
-By class 9, please add your proposal to |GitHub - Proposals|. 
+By class 9, please add your proposal to :xref:`GitHub Proposals`. 
 
 I will comment on proposals as needed.  I encourage you to view others'
 proposals and share constructive ideas.

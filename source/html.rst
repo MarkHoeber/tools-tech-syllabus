@@ -25,9 +25,9 @@ Goals
 Readings
 *********
 
-* |HTML 5 - Wikipedia|
+* :xref:`HTML 5 - Wikipedia`
 
-* |HTML Intro - W3| 
+* :xref:`HTML Intro - W3`
 
 
 Videos
@@ -44,7 +44,7 @@ Follow the GitHub flow to complete this assignment. After you fork the
 repository, you can complete the assignment through the browser, or through
 GitHub Desktop and Atom (or another text editor).
 
-#. Make a fork of |Get Started HMTL Repo| in your own GitHub account.
+#. Make a fork of :xref:`Get Started HMTL Repo` in your own GitHub account.
 
 #. Create a new branch to edit your repository.
 
@@ -64,7 +64,7 @@ GitHub Desktop and Atom (or another text editor).
 #. In the ``nav`` element, change the text of the link to match the article
    titles, and add links to each ID.
 
-   For information on adding links to IDs, see |HMTL Links|.
+   For information on adding links to IDs, see :xref:`HMTL Links`.
 
 #. Save the file, then open it in a browser and check it out.
 
@@ -92,7 +92,7 @@ something in your web page, edit the ``index.html`` file again.
 Extra Credit
 *************
 
-|HTML 5 - edX|
+:xref:`HTML 5 - edX`
 
 Recommended if you intend to do your final project in HTML.
 

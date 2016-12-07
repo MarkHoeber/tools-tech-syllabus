@@ -19,11 +19,11 @@ Goals
 Readings
 *********
 
-* |CSS - Wikipedia|
+* :xref:`CSS - Wikipedia`
 
-* |CSS Intro - W3|
+* :xref:`CSS Intro - W3`
 
-* |Chrome Inspector|
+* :xref:`Chrome Inspector`
 
   .. note:: If you prefer to use a different browser, there are equivalent tools.
 
@@ -93,9 +93,8 @@ text editor).
 Extra Credit
 *************
 
-|CSS - edX|
+:xref:`CSS - edX`
 
 Recommended if you intend to do your final project in HTML.
-
 
 .. include:: includes.txt

@@ -18,8 +18,8 @@ Goals
 Readings
 *********
 
-*  |Sublime Home|
-*  |Sublime - Unofficial Documentation|
+*  :xref:`Sublime`
+*  :xref:`Sublime Unofficial Documentation`
 
 Videos
 *******
@@ -45,7 +45,7 @@ Assignment
 
 #. Install Sublime.
 
-#. Install |HTML Beautify|.
+#. Install :xref:`HTML Beautify`.
    
 #. Go through the GitHub flow using the desktop application and update your
    Hello World repository in any way you want.

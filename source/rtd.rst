@@ -16,8 +16,8 @@ Goals
 Readings
 *********
 
-* |RTD Home|
-* |RTD Doc|
+* :xref:`RTD Home`
+* :xref:`RTD Doc`
 
 Videos
 *******
@@ -29,7 +29,7 @@ Assignment
 
 |Assignment|
 
-#. Create an account on |RTD Home|.
+#. Create an account on :xref:`RTD Home`.
 #. Set up a project to publish the document in your GitHub repository.
 #. Share the URL of your project in :xref:`GitHub Issues`.
 

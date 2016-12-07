@@ -7,7 +7,7 @@ Sphinx is a tool for compiling sets of RST files into an HTML document. (You
 can also use Sphinx to create many other document formats.)
 
 We will use Sphinx to publish the RST content we created in the previous class
-as HTML .
+as HTML.
 
 Goals
 *********
@@ -21,8 +21,8 @@ Goals
 Readings
 *********
 
-* |Sphinx Overview|
-* |First Steps with Sphinx|
+* :xref:`Sphinx Overview`
+* :xref:`First Steps with Sphinx`
 
 Videos
 *******
@@ -36,13 +36,13 @@ Install Sphinx
 
 To build your HTML document on your computer, you must install Sphinx.
 
-#. If you are using Windows, you might need to |Python Install|.
+#. If you are using Windows, you might need to :xref:`Python Install`.
 
-   Depending on your Windows setup, after installation you might need to manually add the Python directory to your path. Try the |Python Windows Install| for help.
+   Depending on your Windows setup, after installation you might need to manually add the Python directory to your path. Try the :xref:`Python Windows Install` for help.
 
    If you are using a Mac, it's probably installed.
 
-#. |PIP Install|.
+#. :xref:`PIP Install`.
 
    Depending on your Windows setup, after installation you might need to manually add the PIP directory to your path.
 
@@ -58,7 +58,7 @@ Assignment
 Part 1
 =========
 
-#. Make a fork of |Get Started Sphinx Repo| in your own GitHub account.
+#. Make a fork of :xref:`Get Started Sphinx Repo` in your own GitHub account.
 
 #. Read the repository ReadMe.
 
@@ -82,7 +82,7 @@ Make sure you complete these steps with no warnings or errors before proceeding.
 Part 2
 =========
 
-Look back to the last class on :ref:`RST`. Review the files in |RST Templates Repository|, and the files your created as part of that assignment.
+Look back to the last class on :ref:`RST`. Review the files in :xref:`RST Templates Repository`, and the files your created as part of that assignment.
 
 You can use the content of those files.  Add them into the your fork of the repository, or copy the content into the files that are already part of the Sphinx project. The same requirements apply.
 
@@ -104,7 +104,7 @@ Extra Credit
 * Change the Sphinx theme by changing the value of ``html_theme`` in the
   ``conf.py`` file. Search Sphinx documentation for more information.
 
-* Checkout the |Tools and Technology Repo| (the source for this syllabus).
+* Checkout the :xref:`Tools and Technology Repo` (the source for this syllabus).
   Examine how the document is organized. Create a branch and make an
   improvement in this syllabus. Build it locally and ensure it comes out as
   you expect. Then submit a pull request.

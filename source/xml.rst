@@ -14,9 +14,9 @@ Goals
 Readings
 *********
 
-* |XML Tutorial|
+* :xref:`XML Tutorial`
 
-* |XML - Wikipedia|
+* :xref:`XML Wikipedia`
 
 Videos
 *******
@@ -30,9 +30,7 @@ Sublime for XML
 
 Install the following packages to make it easier to edit XML in Atom.
 
-* |XML-tools Atom|
-
-* |XML Formatter Atom|
+* 
 
 
 Assignment
