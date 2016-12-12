@@ -7,7 +7,7 @@ Most HTML content is formatted and styled with CSS code.
 
 CSS is most heavily used by web designers.  However, because CSS has such a
 high impact on how users experience content, it is essential for writers to
-have a basic understand of how it works.
+have a basic understanding of how it works.
 
 Goals
 *********
