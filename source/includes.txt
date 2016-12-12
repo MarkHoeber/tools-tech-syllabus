@@ -1,2 +1,1 @@
-.. include:: links.rst
 .. include:: substitutions.rst

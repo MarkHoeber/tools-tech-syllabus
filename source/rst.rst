@@ -16,9 +16,9 @@ Goals
 Readings
 *********
 
-* |RST Wikipedia|
-* |Quick RST|
-* |RST Documentation|
+* :xref:`RST Wikipedia`
+* :xref:`Quick RST`
+* :xref:`RST Documentation`
 
 Video
 *****************
@@ -29,19 +29,15 @@ Video
 Practice
 *************
 
-|Online reStructuredText Editor|
+:xref:`Online RST Writer`
 
 .. note:: Indentation is important in RST. Lots of problems are caused by inconsistent indentation. The only way to learn is to practice and see the results.
 
 
-RST and Atom
-**************
+RST and Sublime
+*****************
 
-* |RST Language Support|
-
-* |RST Preview|
-
-* |RST Preview DocUtils Package|
+* 
 
 
 Assignment
@@ -49,9 +45,9 @@ Assignment
 
 |Assignment|
 
-#. Use |Online reStructuredText Editor| to create a short version of your resume (or something else if your prefer). Share the link in :xref:`GitHub Issues`.
+#. Use :xref:`Online RST Writer` to create a short version of your resume (or something else if your prefer). Share the link in :xref:`GitHub Issues`.
 
-#. Fork the |RST Templates Repository|.
+#. Fork the :xref:`RST Templates Repository`.
 
 #. Read all the files in the repository.
 

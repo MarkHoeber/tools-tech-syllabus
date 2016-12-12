@@ -12,9 +12,9 @@ Goals
 Readings
 *********
 
-* |DITA Map| 
+* :xref:`DITA Map`
 
-* |DITA Map Elements| 
+* :xref:`DITA Map Elements`
 
 DITA Maps and Reuse
 *********************

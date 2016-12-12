@@ -6,8 +6,6 @@ Tools and Technologies for Technical Writers
 This course will help you become familiar with a wide variety of current tools
 and technologies writers use to publish online content.
 
-This is my link to :xref:`sphinx` using the ``xref`` role.
-
 Getting Started
 ******************
 
