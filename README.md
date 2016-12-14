@@ -1,5 +1,9 @@
-# Syllabi for Middlesex CC
+# Tools and Technlogies for Techanical Writers - Middlesex Community College
 
-Repo to store Sphinx projects for MCC
+This repository contains the syllabus for this class.
 
-Use Issues page
+Students should use Issues page for questions and discussion.
+
+## Build Project
+
+## Submit Changes
