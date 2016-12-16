@@ -38,7 +38,6 @@ Videos
 
 .. youtube:: nV9PLPFTnkE
 
-
 Assignment
 ************
 

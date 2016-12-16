@@ -42,11 +42,6 @@ GitHub Flow
 
 .. youtube:: 9bP4-ly2qtQ
 
-GitHub Desktop
-===============
-
-.. youtube:: kFix7UDJ7LA
-
 Assignment
 ************
 
@@ -54,12 +49,18 @@ Assignment
 
 #. :xref:`GitHub Join`.
 
+#. Go to :xref:`GitHub Issues` and introduce yourself and add your
+   GitHub username in the appropriate threads.
+
 #. Follow steps in :xref:`GitHub Hello World`.
 
-#. :xref:`GitHub Setup`.
+You can also install a GitHub application on your computer, so you can edit
+files on your computer and sync them with GitHub.  This is not required for
+the course, but could be helpful when you are working at home.  See
+:xref:`GitHub Setup`. See the following video for more information.
 
-In addition, go to :xref:`GitHub Issues` and introduce yourself and add your
-GitHub username in the appropriate threads.
+.. youtube:: kFix7UDJ7LA
+
 
 Extra Credit 
 ***********************
