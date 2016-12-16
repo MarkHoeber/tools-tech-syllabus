@@ -1,8 +1,10 @@
 Sublime
 ########################################
 
-We will use Sublime when working with markup languages. Sublime lets you edit
-plain text, and includes many packages that help with specific languages.
+.. note:: This section is optional.  You can complete work for this class by editing text directly in GitHub. However Sublime provides many features that make writing and editing more efficient, and I encourage you to explore on your own.
+
+Sublime lets you edit plain text, and includes many packages that help with
+specific languages.
 
 Through there are various tools to make work easier, working in plain text
 will give you a better understanding of the subjects we will cover. You can

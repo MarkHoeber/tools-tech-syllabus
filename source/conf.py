@@ -1,5 +1,4 @@
 import sys, os
-import sphinx_rtd_theme
 import sphinx_bootstrap_theme
 
 sys.path.append(os.path.abspath('ext'))

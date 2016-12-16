@@ -39,3 +39,16 @@ img  {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+.toggle .header {
+    display: block;
+    clear: both;
+}
+
+.toggle .header:after {
+    content: " ▼";
+}
+
+.toggle .header.open:after {
+    content: " ▲";
+}
