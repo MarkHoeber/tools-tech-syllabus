@@ -34,7 +34,7 @@ Videos
 
 .. note::  In the upper left of the video, you'll see a playlist icon.  This
   indicates the video is part of a series.  Click the icon to open the list of
-  videos in the series.  View each one.
+  videos in the series.  View at least the first two.
 
 .. youtube:: nV9PLPFTnkE
 
