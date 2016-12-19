@@ -44,47 +44,155 @@ Assignment
 |Assignment|
 
 Find a partner for this assignment.  You should work together, though you only
-need to complete these steps for one repository.
+need to complete these steps for one repository. The goal of this exercise is to learn the mechanics of editing styles in a web page.  It is not a design contest.
 
 Follow the GitHub flow to complete this assignment. You can complete the
-assignment through the browser, or through GitHub Desktop and Atom (or another
+assignment through the browser, or through GitHub Desktop and Sublime (or another
 text editor).
 
-.. note:: The goal of this exercise is to learn the mechanics of editing
-  styles in a web page.  It is not a design contest.
 
-#. Create a new branch in your **Get Started HMTL** repo.
 
-#. In your new branch, edit the ``styles.css`` file.
+#. In your ``Get Started HMTL Repo`` edit the ``styles.css`` file.
 
-   .. hint:: Use Chrome Inspector to experiment with changing styles.
+   .. include:: snippets/master_branch.txt
+
+   .. hint:: Edit the style sheet in one browser tabl, and open the webpage in a separate tab. Refresh the web page each time you commit a change to the style sheet.
 
 #. For the ``nav`` element:
 
    * Apply a unique color.
    * Create a border around it.
-   * Change the background color so it sticks out on the page.
+   * Change the background color of the nav so it sticks out on the page.
+
+   .. container:: toggle
+
+     .. container:: header
+
+       Hint
+
+     .. code-block:: html
+
+        nav {
+          color: blue;
+          border: 1px;
+          border-style: solid;
+          background-color: yellow;
+        }
 
 #. For the ``article`` element:
 
-   * Create a border around the ``article``.
+   * Create a blue border around the ``article``.
    * Change the style of the ``header`` however you see fit.
-   * Indent the ``p`` element.
-   * Change the background color so it sticks out on the page.
+   * Indent the ``p`` element by 20pt.
+   * Add 10pt margins around the article.
+   * Add 10pt padding around the article.
+
+   .. container:: toggle
+
+     .. container:: header
+
+       Hint
+
+     .. code-block:: html
+ 
+        nav {
+          color: blue;
+          border: 1px;
+          border-style: solid;
+          background-color: yellow;
+        }
+
+        article {
+          border: 1px;
+          border-style: solid;
+          border-color: blue;
+          padding: 10pt;
+          margin: 10pt;
+        }
+
+        article header {
+          font-style: italic;
+        }
+
+        article p {
+          margin-left: 20pt;
+        }
+        
 
 #. For the ``aside`` element:
 
-   * Move the ``aside`` element so that it appears next to ``article``,
-     aligned on the right side.
+   * Make the two  ``aside`` elements appear next to each other.
+   * Add a 20pt margin on top of the aside elements.
    * Make the ``h2`` smaller than the ``h2`` for ``article``.
-   * Change the style of the ``header`` however you see fit.
    * Indent the ``p`` element.
-   * Change the background color so it sticks out on the page.
+   * Make the top and left margins 20pt.
 
-#. Make the footer smaller.
+   .. container:: toggle
+
+     .. container:: header
+
+       Hint
+
+     .. code-block:: html
+ 
+        aside {
+          display: inline-block;
+          width: 40%;
+          vertical-align: top;
+          margin-top: 20pt;
+          margin-left: 20pt;
+        }
+
+        aside h2 {
+          font-size: 16pt;
+        }
+                
+
+#. For the footer:
+
+   * Add a 1pt solid top border.
+   * Make the footer paragraph font 12pt.
+   * Align the footer paragraph to the right.
+
+   .. container:: toggle
+
+     .. container:: header
+
+       Hint
+
+     .. code-block:: html
+ 
+        footer {
+          border-top: 1pt solid;
+        }
+
+        footer p {
+          font-size: 12pt;
+          text-align: right;
+        }
+          
 
 #. Continue editing the styles and refreshing the web page until you are
    satisfied.
+
+View Your Work
+****************
+
+You now have a styles to enhance your web page. To see the results *before* you merge the style changes to your master branch, follow these instructions..
+
+#. In the repository, open the **Settings** tab.
+
+#. Find the **GitHub Pages** section.
+
+#. For the **Source**, select the branch you are working in.
+   
+#. Click **Save**.
+
+   The URL of your new website is now listed. Open it.  If you don't like
+   something in your web page, edit the ``styles.css`` file again.
+
+   .. hint:: Use Chrome Inspector to experiment with changing styles.
+
 
 .. include:: snippets/save_github.txt
 
