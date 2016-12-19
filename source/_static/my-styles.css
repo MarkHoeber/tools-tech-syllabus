@@ -43,12 +43,19 @@ img  {
 .toggle .header {
     display: block;
     clear: both;
+    color: #337ab7;
+    padding-bottom: 1rem;
+}
+
+.toggle .header p {
+    font-size: 0pt;
 }
 
 .toggle .header:after {
-    content: " ▼";
+
+    content: "show hint >>";
 }
 
 .toggle .header.open:after {
-    content: " ▲";
+    content: "<< hide hint";
 }

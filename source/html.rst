@@ -42,11 +42,13 @@ Assignment
 
 Follow the GitHub flow to complete this assignment. After you fork the
 repository, you can complete the assignment through the browser, or through
-GitHub Desktop and Atom (or another text editor).
+GitHub Desktop and Sublime (or another text editor).
 
 #. Make a fork of :xref:`Get Started HMTL Repo` in your own GitHub account.
 
 #. In your new repository, edit the ``index.html`` file.
+
+   .. include:: snippets/master_branch.txt
 
 #. Give the page a title. Use an ``h1`` tag at the start of the ``body``.
 
@@ -54,7 +56,7 @@ GitHub Desktop and Atom (or another text editor).
 
      .. container:: header
 
-       Hint:
+       Hint
 
      .. code-block:: html
        :emphasize-lines: 2
@@ -77,7 +79,7 @@ GitHub Desktop and Atom (or another text editor).
 
      .. container:: header
 
-       Hint:
+       Hint
 
      .. code-block:: html
        :emphasize-lines: 4, 6, 11, 13
@@ -104,7 +106,7 @@ GitHub Desktop and Atom (or another text editor).
 
      .. container:: header
 
-       View:
+       Hint
 
      .. youtube:: q5f7a2BInuk
 
@@ -114,7 +116,7 @@ GitHub Desktop and Atom (or another text editor).
 
      .. container:: header
 
-       Hint:
+       Hint
 
      .. code-block:: html
        :emphasize-lines: 3
@@ -131,7 +133,7 @@ GitHub Desktop and Atom (or another text editor).
 
      .. container:: header
 
-       Hint:
+       Hint
    
      .. code-block:: html
        :emphasize-lines: 3
@@ -147,7 +149,7 @@ GitHub Desktop and Atom (or another text editor).
 
      .. container:: header
 
-       Hint:
+       Hint
 
      .. code-block:: html
        :emphasize-lines: 1
@@ -160,13 +162,13 @@ GitHub Desktop and Atom (or another text editor).
         </article>
 
 #. In the ``nav`` element, change the text of the link to match the article
-   titles, and add links to each ID.
+   titles, and add links to each ID. See :xref:`HMTL Links` for more information.
 
    .. container:: toggle
 
      .. container:: header
 
-       Hint:
+       Hint
 
      .. code-block:: html
        :emphasize-lines: 4
@@ -180,7 +182,7 @@ GitHub Desktop and Atom (or another text editor).
           </nav>
         </header>
 
-   See :xref:`HMTL Links` for more information.
+   
 
 #. Commit the file to the master branch in GitHub.
 
