@@ -34,39 +34,234 @@ Practice
 .. note:: Indentation is important in RST. Lots of problems are caused by inconsistent indentation. The only way to learn is to practice and see the results.
 
 
-RST and Sublime
-*****************
-
-* 
-
-
 Assignment
 ************
 
 |Assignment|
 
-#. Use :xref:`Online RST Writer` to create a short version of your resume (or something else if your prefer). Share the link in :xref:`GitHub Issues`.
+You can edit RST directly in GitHub. You can also use the GitHub client to get
+files on your local computer, and use Sublime or another program to edit.
+
+Part 1 
+=========
+
+Lets get familiar with RST.
+
+#. Use :xref:`Online RST Writer` to create a short version of your resume (or
+   something else if your prefer). Save it with a unique link and share the link
+   in :xref:`GitHub Issues`.
+
+#. Examine the RST files in the ``source`` folder of the :xref:`GitHub Syllabus Repository`. View the **Raw** files. Compare the RST structure to this syllabus.
+
+
+Part 2 
+========
 
 #. Fork the :xref:`RST Templates Repository`.
 
-#. Read all the files in the repository.
+#. Read all the files in the repository and get familiar with the constructs.
 
-#. In your repository, use the templates to create a documentation set.
+#. In your repository, create a new branch. 
 
-   Start with the ``topic.rst`` file. Use at least 2 levels of headings.
+#. In that branch, use the templates to create a documentation set. Edit
+   and rename files as needed.
 
-   Edit and rename files as needed.
+   In those files, use at least:
 
-   You should use at least:
+   * 3 different pages (RST files).
 
-   * 3 different pages.
-   * One table, one numbered list, one unordered list.
+   * 2 levels of headings on each page.
+
+     .. container:: toggle
+
+        .. container:: header
+
+          Hint
+
+        .. code-block:: rst
+          
+          ######################
+          Level 1 - Main Title
+          ######################
+
+          Intro text
+
+          ********
+          Level 2
+          ********
+
+          Section text
+
+          ********
+          Level 2
+          ********
+
+          Section text
+
+          =======
+          Level 3
+          =======
+
+          Subsection text
+
+          =======
+          Level 3
+          =======
+
+          Subsection text
+
+   * One table.
+
+     .. container:: toggle
+
+        .. container:: header
+
+          Hint
+
+        .. code-block:: rst
+          
+          .. list-table::
+             :widths: 25 25 50
+             :header-rows: 1
+
+             * - Heading row 1, column 1
+               - Heading row 1, column 2
+               - Heading row 1, column 3
+             * - Row 2, column 1
+               - Row 2, column 2
+               - Row 2, column 3
+             * - Row 3, column 1
+               - Row 3, column 2
+               - Row 3, column 3
+
+   * One ordered list.
+   
+     .. container:: toggle
+
+        .. container:: header
+
+          Hint
+
+        .. code-block:: rst
+          
+          #. Step one.
+
+             Text under step one.
+
+          #. Step two.
+
+          #. Step three.
+
+   * One unordered list.
+
+     .. container:: toggle
+
+        .. container:: header
+
+          Hint
+
+        .. code-block:: rst
+          
+          * Item one.
+
+            Text under item one.
+
+          * Item two.
+
+          * Item three.
+
    * One code block.
+
+     .. container:: toggle
+
+        .. container:: header
+
+          Hint
+
+        .. code-block:: rst
+          
+          .. code-block:: HTML
+
+            <html>
+               <head/>
+               <body>
+
+               </body>
+            </html>
+
    * One external link.
+
+     .. container:: toggle
+
+        .. container:: header
+
+          Hint
+
+        .. code-block:: rst
+          
+          `CNN Website <http://cnn.com/>`_
+
+        .. note:: There are other, better ways to do this in large projects.
+
    * One substitution.
+
+     .. container:: toggle
+
+        .. container:: header
+
+          Hint
+
+        .. code-block:: rst
+          
+           .. |TTTW| replace:: Tools and Technologies for Technical Writers
+
+           "The name of this class is |TTTW|".
+
    * Two different conditions.
+
+     .. container:: toggle
+
+        .. container:: header
+
+          Hint
+
+        .. code-block:: rst
+          
+           .. only:: Administrators
+
+             This paragraph will be shown only in the Administrator's Guide.
+
+           .. only:: End Users
+
+             This paragraph will be shown only in the User's Guide.
+
    * One note and one caution.
+
+     .. container:: toggle
+
+        .. container:: header
+
+          Hint
+
+        .. code-block:: rst
+          
+           .. note:: You might find this interesting.
+
+           .. caution:: Don't do this.
+
    * One image.
+
+     .. container:: toggle
+
+        .. container:: header
+
+          Hint
+
+        .. code-block:: rst
+          
+           .. image:: path/file-name
+             :width: 400
+             :alt" Image description
 
 .. include:: snippets/save_github.txt
 

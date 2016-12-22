@@ -5,8 +5,10 @@
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 PAPER         =
-BUILDDIR      = build
+BUILDDIR      = build/html
 LINKSDIR       = source/links
+LINKCHECKDIR  = build/linkcheck
+SPHINXAUTOBUILD = sphinx-autobuild
 
 # Internal variables.
 PAPEROPT_a4     = -D latex_paper_size=a4
@@ -14,6 +16,23 @@ PAPEROPT_letter = -D latex_paper_size=letter
 ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) source
 # the i18n builder cannot share the environment and doctrees with the others
 I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) source
+
+ALLSPHINXLIVEOPTS   = $(ALLSPHINXOPTS) -q \
+        -p 0 \
+        -H 0.0.0.0 \
+        -B \
+        --delay 1 \
+        --ignore "*.swp" \
+        --ignore "*.pdf" \
+        --ignore "*.log" \
+        --ignore "*.out" \
+        --ignore "*.toc" \
+        --ignore "*.aux" \
+        --ignore "*.idx" \
+        --ignore "*.ind" \
+        --ignore "*.ilg" \
+        --ignore "*.tex" \
+        --watch source 
 
 .PHONY: help
 help:
@@ -39,21 +58,35 @@ link:
 	echo "Enter the link in content as :xref:\`"$$link_name"\`"; \
 	echo "The user will see:" $$link_text; \
 	echo "Make sure you build and test the link."; \
-  echo "import links\n\nen_us_user_text = \"$$link_text\" \n\n\
+  echo "import link\n\nen_us_user_text = \"$$link_text\" \n\n\
 links.xref_links.update({\"$$link_name\": (en_us_user_text, \"$$link_url\")})" \
   > $(LINKSDIR)/$$file_name".py" \
 
 .PHONY: html
 html:
-	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
+	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)
 	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
+	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
+
+
+.PHONY: livehtml
+livehtml:
+	$(SPHINXAUTOBUILD) -b html $(ALLSPHINXLIVEOPTS) $(BUILDDIR)
+	@echo
+	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
+
 
 .PHONY: fasthtml
 fasthtml:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR) -j 16
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
+
+.PHONY: checklinks
+checklinks:
+	$(SPHINXBUILD) -b linkcheck $(ALLSPHINXOPTS) $(LINKCHECKDIR)
+	@echo
+	@echo "Check finished. Report is in $(LINKCHECKDIR)."
 
 
 .PHONY: latex

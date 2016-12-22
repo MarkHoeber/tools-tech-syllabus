@@ -1,5 +1,5 @@
 1b - Editor Setup
-########################################
+###################
 
 For classes 1 - 9, we will be using Atom, which lets you edit plain text.
 Through there are various tools to make work easier, working in plain text
