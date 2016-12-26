@@ -10,7 +10,7 @@ In fact, HTML is an specific implementation of XML, meaning it has a set list
 of defined tags and rules. In XML-speak, HTML has its own schema. A schema is
 a set of rules for a specific type of XMl document.
 
-XML itself allows you to create you own schema for specific needs, so
+XML itself allows you to create a schema for specific needs, so
 people can create their own documents based on that schema.  HTML is one
 example. DITA, which we'll learn about next, is another schema that is
 commonly used in technical writing.
