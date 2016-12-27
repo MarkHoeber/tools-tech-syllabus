@@ -1,6 +1,9 @@
+.. _DITA:
+
 DITA
 #############################
 
+In this lesson we will build on our DITA skills.
 
 Goals
 *********
@@ -9,8 +12,7 @@ Goals
 
 * Understand DTDs and validation.
 
-* Use :xref:`XMLmind` to learn how to work with tools designed for DITA.
-
+* Create HTML and PDF documents from DITA.
 
 
 Readings
@@ -18,26 +20,18 @@ Readings
 
 * :xref:`DITA Topics` (Read carefully)
 
-* :xref:`DTDs Wikipedia`
-
-* :xref:`XMLmind Tutorials` - Getting Started lessons
-
-
 Assignment
 ************
 
 |Assignment| 
 
-Part 1 
-=========================
+#. Create a new branch in your fork of the :xref:`Get Started with DITA`.
 
-:xref:`XMLmind Download`
+#. Review the work you submitted in the :ref:`RST` lesson.  Then use that
+   content to create new DITA files as needed.  Try to adhere to the topic
+   model:  one topic per file, as a concept, task, or reference.
 
-
-Part 2 
-=========================
-
-Repeat the assignment in :ref:`DITA Introduction`, only this time use XMLMind.  Add a **task** and a **reference** topic to your pull request.  Make sure to change the DTD declaration to point to the right DTD for the topic type.
+#. Validate all of your files.
 
 .. include:: snippets/save_github.txt
 

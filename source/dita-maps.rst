@@ -1,6 +1,8 @@
+
 DITA Maps
 #############################
 
+DITA maps are special DITA files that organize topics into a cohesive document. Think of DITA maps as simply TOCs, or like the index files we used for Sphinx.
 
 Goals
 *********
@@ -16,6 +18,14 @@ Readings
 
 * :xref:`DITA Map Elements`
 
+Video 
+***********************
+
+.. youtube:: BfhqN9V9uIE
+
+
+Content starts here
+
 DITA Maps and Reuse
 *********************
 
@@ -26,11 +36,12 @@ Assignment
 
 |Assignment| 
 
-#. this 
+#. Create a new branch in your fork of the :xref:`Get Started with DITA`.
 
-#. this
+#. Review the topics you submitted in the :ref:`DITA` lesson. Now think of organizing those topics into a document. Add the topic references into a new DITA map.
 
-#. this
+#. Publish and review the HTML for your map.
 
+.. include:: snippets/save_github.txt
 
 .. include:: includes.txt
