@@ -16,12 +16,14 @@ Goals
 
 * Understand the philosophy and goals of DITA.
 
-* Understand the basic DITA topic types: concept, task, reference.
+* Learn the basic DITA topic types: concept, task, reference.
 
-Introduction
-*************
+* Understand the idea of structured authoring.
 
-.. include:: slideshare/dita_intro.txt
+..   Introduction
+     *************
+
+       .. include:: slideshare/dita_intro.txt
 
 Readings
 *********
@@ -31,8 +33,6 @@ Readings
 * :xref:`DITA Tutorial`
 
 * :xref:`DITA FAQs`
-
-* :xref:`DITA Concepts`
 
 Videos
 *******
@@ -48,7 +48,8 @@ For working with DITA, we will use a program called :xref:`oXygen XML Editor`.
 
 Download and install the trial version, which you can use for 30 days.
 
-(You can also use Sublime to work in code.)
+(You can also use GitHub on the web or Sublime locally to work directly in
+DITA code. Note that you can't validate XML files when editing on GitHub.)
 
 .. youtube:: HVaPfUEpkc4
 
@@ -61,14 +62,14 @@ Assignment
 
 #. Fork the :xref:`Get Started with DITA` and create a new branch.
 
-#. Read the example concept, task, and reference examples and get familiar
-   with the constructs.
+#. In GitHub, read the example concept, task, and reference examples and get
+   familiar with the constructs and the code markup.
+
+#. Pull the branch to your computer, then open the files with oXygen.
 
 #. Replace the content in the files with content from your own projects.
    Think about what content is conceptual, task-based, and reference, and
    place accordingly.
-
-#. Validate the files against the DTD for the topic type.
 
 .. include:: snippets/save_github.txt
 
