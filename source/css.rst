@@ -194,9 +194,6 @@ You now have a styles to enhance your web page. To see the results *before* you 
    .. hint:: Use Chrome Inspector to experiment with changing styles.
 
 
-.. include:: snippets/save_github.txt
-
-
 Extra Credit
 *************
 
