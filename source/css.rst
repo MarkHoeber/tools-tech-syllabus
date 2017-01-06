@@ -56,7 +56,7 @@ text editor).
 
    .. include:: snippets/master_branch.txt
 
-   .. hint:: Edit the style sheet in one browser tabl, and open the webpage in a separate tab. Refresh the web page each time you commit a change to the style sheet.
+   .. hint:: Edit the style sheet in one browser tab, and open the webpage in a separate tab. Refresh the web page each time you commit a change to the style sheet.
 
 #. For the ``nav`` element:
 
