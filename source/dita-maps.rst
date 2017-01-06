@@ -52,7 +52,7 @@ Assignment
    organizing those topics into a document. Add the topic references into a
    new DITA map.
 
-#. Publish and review the PDF and HTML for your map.
+#. Publish and review the PDF and HTML for your map.  Attach the PDF and a zip file of HTML files when you create a pull request.
 
 .. include:: snippets/save_github.txt
 
