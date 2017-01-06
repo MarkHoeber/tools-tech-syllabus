@@ -93,7 +93,7 @@ Create your own Sphinx Project
 =================================
 
 Look back to the last class on :ref:`RST`. Review your fork of 
-:xref: `RST Templates Repository`, and the files your created as part of that assignment.
+:xref:`RST Templates Repository`, and the files your created as part of that assignment.
 
 You can use the content of those files.  Add them into the your fork of the
 :xref:`Get Started Sphinx Repo` repository, or copy the content into the files
