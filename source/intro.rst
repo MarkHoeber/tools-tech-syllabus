@@ -65,9 +65,7 @@ We will discuss GitHub in the 1st class.  Do the reading before then.
 Editors 
 ***********************
 
-For most assignments, we will use Sublime to edit files.
-
-We will discuss Sublime in the 1st class.  Do the reading before then.
+For markup languages, you can edit in GitHub directly, without installing any software. You can also use ublime to edit file on your computer.
 
 Later in the semester we will install trial versions of FrameMaker and Madcap
 Flare.
