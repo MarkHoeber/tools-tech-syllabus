@@ -166,4 +166,3 @@ How? Let's look at the ways:
   You can, and are encouraged to, make it better and to share it, using the
   tools we will learn about.
 
-.. include:: includes.txt

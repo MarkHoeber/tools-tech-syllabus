@@ -56,4 +56,3 @@ Assignment
 
 .. include:: snippets/save_github.txt
 
-.. include:: includes.txt

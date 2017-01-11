@@ -66,4 +66,3 @@ We will use the last two classes to work on and present our projects.
    choice
    presentations
 
-.. include:: includes.txt

@@ -201,4 +201,3 @@ Extra Credit
 
 Recommended if you intend to do your final project in HTML.
 
-.. include:: includes.txt
