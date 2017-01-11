@@ -36,5 +36,3 @@ Assignment
 
 
 
-
-.. include:: includes.txt

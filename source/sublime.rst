@@ -53,5 +53,3 @@ Assignment
    Hello World repository in any way you want.
 
 .. include:: snippets/save_github.txt
-
-.. include:: includes.txt

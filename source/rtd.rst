@@ -55,5 +55,3 @@ When creating a project, you don't need all the options. These are the essential
 
   * Leave the rest of the defaults.
 
-
-.. include:: includes.txt

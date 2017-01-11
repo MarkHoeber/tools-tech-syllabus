@@ -34,7 +34,3 @@ Assignment
 
 |Assignment| 
 
-
-
-
-.. include:: includes.txt
