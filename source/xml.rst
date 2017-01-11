@@ -93,5 +93,3 @@ Assignment
   closing tags.) So we did not *validate* the XML against rules.  In the next
   lesson, we will start using DITA, which will enforce certain rules on the
   structure of your content.
-
-.. include:: includes.txt

@@ -70,4 +70,3 @@ Explore the :xref:`GitHub Training` site.
 You do not need to know everything in the training for this course, but it
 will prove valuable in future jobs.
 
-.. include:: includes.txt

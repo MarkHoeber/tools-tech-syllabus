@@ -126,5 +126,3 @@ Extra Credit
   submit a pull request.
 
 Recommended if you intend to do your final project in Sphinx.
-
-.. include:: includes.txt

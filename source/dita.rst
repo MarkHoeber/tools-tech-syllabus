@@ -15,6 +15,7 @@ Goals
 * Create HTML and PDF documents from DITA.
 
 
+
 Readings
 *********
 
@@ -39,4 +40,3 @@ Assignment
 
 .. include:: snippets/save_github.txt
 
-.. include:: includes.txt

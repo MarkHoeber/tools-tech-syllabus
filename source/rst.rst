@@ -268,4 +268,3 @@ Part 2
 
 These files will form the basis of your Sphinx project in the :ref:`next lesson <Sphinx>`.
 
-.. include:: includes.txt
