@@ -11,6 +11,8 @@ will give you a better understanding of the subjects we will cover. You can
 choose to use other plain text tools, such as Atom, Notepad, or Visual
 Studio Code.
 
+Also see :xref:`Sphinx_Sublime_Doc` for more details.
+
 Goals
 *********
 
@@ -43,13 +45,7 @@ Learn Sublime
 Assignment
 ************
 
-|Assignment|
-
 #. Install Sublime.
-
-#. Install :xref:`HTML Beautify`.
    
 #. Go through the GitHub flow using the desktop application and update your
    Hello World repository in any way you want.
-
-.. include:: snippets/save_github.txt
