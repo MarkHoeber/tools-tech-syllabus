@@ -87,7 +87,7 @@ I've selected what I think are good articles and videos for this class.  But
 there are many more. You are encouraged to search on your own, and if you
 learn a trick we haven't covered, share it.
 
-You will need to spend 10 - 15 hours per week for this class.
+You will need to spend around 4-8 hours per week for this class.
 
 Class participation online, between class meetings, is expected.
 
