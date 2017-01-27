@@ -1,4 +1,4 @@
-GitHub
+GitHub Page
 ###############
 
 GitHub is a free online service that we will use to manage content. More and
