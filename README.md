@@ -1,4 +1,4 @@
-# Tools and Technlogies for Techanical Writers - Middlesex Community College
+# Tools and Technlogies for Technical Writers - Middlesex Community College
 
 This repository contains the syllabus for this class.
 
