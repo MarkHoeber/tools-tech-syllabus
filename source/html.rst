@@ -182,9 +182,9 @@ GitHub Desktop and Sublime (or another text editor).
           </nav>
         </header>
 
-   
-
 #. Commit the file to the master branch in GitHub.
+
+   Normally we would commit to a different branch, to review before merging to master. But in this lesson, as you own the repository, you can commit directly to master, so you can see the results in https://yourname.github.io/get_started_html/ immediately.
 
 View Your Work
 ****************
