@@ -53,7 +53,7 @@ overhead. We can still produce HTML, as well as some other formats.
    frame1
    frame2
    flare1
-   flare2
+   wordpress
 
 Wrap Up
 *******************
