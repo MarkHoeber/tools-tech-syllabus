@@ -5,6 +5,8 @@ reStructuredText (RST)
 
 RST is a text file format used for technical documentation. RST grew out of the Python programming community, but can be used for a wide variety of content (for example, this syllabus.)
 
+This is my edit
+
 Goals
 *********
 
