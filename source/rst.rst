@@ -5,8 +5,6 @@ reStructuredText (RST)
 
 RST is a text file format used for technical documentation. RST grew out of the Python programming community, but can be used for a wide variety of content (for example, this syllabus.)
 
-This is my edit
-
 Goals
 *********
 
@@ -51,8 +49,7 @@ Part 1
 Lets get familiar with RST.
 
 #. Use :xref:`Online RST Writer` to create a short version of your resume (or
-   something else if your prefer). Save it with a unique link and share the link
-   in :xref:`GitHub Issues`.
+   something else if your prefer). Save it in another file that you will have access to.
 
 #. Examine the RST files in the ``source`` folder of the :xref:`GitHub Syllabus Repository`. View the **Raw** files. Compare the RST structure to this syllabus.
 
