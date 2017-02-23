@@ -260,7 +260,7 @@ Part 2
           
            .. image:: path/file-name
              :width: 400
-             :alt" Image description
+             :alt: Image description
 
 .. include:: snippets/save_github.txt
 
