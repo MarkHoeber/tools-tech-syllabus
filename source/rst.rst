@@ -10,7 +10,6 @@ Goals
 
 * Learn the basic syntax of RST.
 * Edit a page in RST.
-* Learn to use Atom packages to improve the RST editing experience.
 * Be prepared to create documentation sets in Sphinx.
 
 
