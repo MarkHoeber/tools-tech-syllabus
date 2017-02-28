@@ -47,7 +47,7 @@ Assignment
 
 #. Create a new branch.
 
-#. Add an XMl file in the branch.
+#. Add an XML file in the branch.
 
    Look at content you created in an earlier lesson.  Think about how it can be organized by semantic meaning.
 
