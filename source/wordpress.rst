@@ -57,7 +57,7 @@ Assignment
    * Embedded video
    * Anything else to make it more creative.
 
-#. Override at least one CSS setting from the theme.
+#. Override at least one CSS setting from the theme (only available if you have a paid account -- otherwise ignore).
 
 #. Share your website with the class.
 
