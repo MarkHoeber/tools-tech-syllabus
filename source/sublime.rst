@@ -1,7 +1,7 @@
 Sublime
 ########################################
 
-.. note:: This section is optional.  You can complete work for this class by editing text directly in GitHub. However Sublime provides many features that make writing and editing more efficient, and I encourage you to explore on your own.
+.. note:: This section is optional.  You can complete work for this class by editing text directly in GitHub. However Sublime provides many features that make writing and editing more efficient, and I encourage you to explore it on your own.
 
 Sublime lets you edit plain text, and includes many packages that help with
 specific languages.
@@ -49,3 +49,4 @@ Assignment
    
 #. Go through the GitHub flow using the desktop application and update your
    Hello World repository in any way you want.
+   

@@ -22,28 +22,28 @@ I recommend doing the project in RST/Sphinx or DITA, for several reasons:
   requirement for technical writers, and doing a substantial project that you
   can share and continue to enhance will help you in a job search.
 
-Partners
-**********
+.. Partners
+	**********
 
-While you will complete your own project, you will have a partner. The
-partner's role is to provide feedback and help. You are free to share your
-work in progress with others in the class, but you must have at least one
-designated partner.
+	While you will complete your own project, you will have a partner. The
+	partner's role is to provide feedback and help. You are free to share your
+	work in progress with others in the class, but you must have at least one
+	designated partner.
 
-In addition, being a partner to another student will help you see project
-development from a different angle. You might think of things when looking at
-your partner's project that you would not see in your own work.
+	In addition, being a partner to another student will help you see project
+	development from a different angle. You might think of things when looking at
+	your partner's project that you would not see in your own work.
 
-Finally, having a partner, or "peer editor" is something you'll have to do as
-a professional technical writer.
+	Finally, having a partner, or "peer editor" is something you'll have to do as
+	a professional technical writer.
 
-Ideally, your partner will be using the same tools in his or her project,
-though this isn't a requirement.
+	Ideally, your partner will be using the same tools in his or her project,
+	though this isn't a requirement.
 
 Proposals 
 ***********************
 
-Please add your proposal to :xref:`GitHub Proposals` by **March 24**.
+Please share your proposal in Slack by **March 24**.
 
 I will comment on proposals as needed.  I encourage you to view others'
 proposals and share constructive ideas.

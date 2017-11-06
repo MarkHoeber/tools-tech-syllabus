@@ -15,7 +15,7 @@ This course will not make anyone an expert in any tool. Rather, we aim to:
 
 * And most importantly, help you *learn how to learn*.
 
-  Undoubtedly, in five years you will not be using the same tools that we use
+  Undoubtedly, in five years, or next year, you will not be using the same tools that we use
   in this class. You will need to adapt to rapid change.  We will stress using
   all available sources, and hands-on use, to learn new tools.
 
@@ -51,37 +51,35 @@ GitHub
 
 We will use GitHub to communicate and to exchange files. 
 
-Many of you will use GitHub or a similar system in your future jobs, so this
-is a good opportunity to learn more about it.To get started, create an GitHub
+Many of you will use GitHub or a similar system (such as BitBucket) in your future jobs, so this
+is a good opportunity to learn more about it. To get started, create an GitHub
 account.
 
 :xref:`GitHub Join`
 
-Then add your GitHub user name to the :xref:`GitHub Issues` discussion so the rest
-of the class can collaborate with you.
+.. Then add your GitHub user name to the :xref:`GitHub Issues` discussion so the rest of the class can collaborate with you.
 
-We will discuss GitHub in the 1st class.  Do the reading before then.
+We will discuss GitHub in the 1st class.  Do the reading and watch the videos before then.
 
 Editors 
 ***********************
 
-For markup languages, you can edit in GitHub directly, without installing any software. You can also use ublime to edit file on your computer.
+For markup languages, you can edit in GitHub directly, without installing any software. You can also use Sublime to edit files on your computer.
 
-Later in the semester we will install trial versions of FrameMaker and Madcap
-Flare.
+Later in the semester we will install trial versions of Oxygen, FrameMaker and Madcap Flare.
 
-.. caution:: Do not install these programs until we are near those classes;
+.. caution:: Do not install these programs until we approach those classes;
   otherwise, your trial period might end before you can complete the
   assignments.
 
 Expectations
 *************
 
-You must bring curiosity and enthusiasm for hands on work.
+You must bring curiosity and enthusiasm for hands-on work.
 
 You must do the reading and watch videos before class, so we can use class
 time for discussion and hands-on learning. If you get stuck, search for
-answers first, then ask on our class :xref:`GitHub Issues` page.
+answers first, then ask on our class Slack channel.
 
 I've selected what I think are good articles and videos for this class.  But
 there are many more. You are encouraged to search on your own, and if you
@@ -99,32 +97,38 @@ each other's work as well.
 You should be familiar and comfortable with either a Mac or Windows, and web
 browsing.
 
-Class Discussions
-******************
+Class Discussions 
+=========================
 
 Active class participation, both in our weekly meetings and online, is a must.
 
-We will use the :xref:`GitHub Issues` page of this syllabus to discuss questions online. 
 
-GitHub issues function much like a discussion board. You can start a new
-issue, and comment on existing issues. Issues are Open or Closed.  I'll close
-an issue when the question has been answered. But you can still get good
-information by browsing Closed issues.
+Slack 
+=========================
 
-Everyone is encouraged to ask questions, and comment on others' questions.
+We will use the :xref:`Class Slack Channel`  to discuss questions online. 
 
-To get started, please go to the GitHub - Issues page, find the Introductions
-issue, and add a comment to introduce yourself.
+Sign up for the Slack channel before the first class.
+
+Slack is a common individual and group chat tool; you very well may use it now or in the future on the job.  
+
+You can use Slack in a browser, install the program on your computer, and add the app to your phone.
+
+Everyone is encouraged to ask questions, and comment on others' questions in Slack.
+
+To get started, please go to :xref:`Class Slack Channel` and add a comment to introduce yourself.
 
 Assignments 
-***********************
+=========================
 
 This course is pass/fail. No grades are submitted (unless one is necessary for
 tuition reimbursement).
 
 There are short assignments for each technology we cover in class. These
 assignments are intended to provide a taste of working with different
-technologies.
+technologies. I ask that you share the assignment with me through Slack.
+
+You will also submit 4 assignments for grading through Blackboard. These are noted in the syllabus.
 
 |Assignment|
 

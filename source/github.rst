@@ -2,9 +2,9 @@ GitHub
 ###############
 
 GitHub is a free online service that we will use to manage content. More and
-more companies are using GitHub, or similar services, today.
+more companies are using GitHub, or similar services (such as BitBucket), today.
 
-We will use GitHub for most of the exercises in this course, so it is critical
+We will use GitHub for most of the assignments in this course, so it is critical
 to go through all the readings and videos in this lesson.
 
 Goals
@@ -30,10 +30,13 @@ Readings
 Videos
 *******
 
-Get Started with GitHub
+What is GitHub?
 ========================
 
 .. youtube:: VUaBfYCmJls
+
+How to Use GitHub for Beginners
+=================================
 
 .. youtube:: E8TXME3bzNs
 
@@ -49,14 +52,15 @@ Assignment
 
 #. :xref:`GitHub Join`.
 
-#. Go to :xref:`GitHub Issues` and introduce yourself and add your
-   GitHub username in the appropriate threads.
+#. In Slack, share your GitHub username.  
+
+#. In GitHub, follow me and your classmaates.
 
 #. Follow steps in :xref:`GitHub Hello World`.
 
 You can also install a GitHub application on your computer, so you can edit
 files on your computer and sync them with GitHub.  This is not required for
-the course, but could be helpful when you are working at home.  See
+the course, but could be helpful.  See
 :xref:`GitHub Setup`. See the following video for more information.
 
 .. youtube:: kFix7UDJ7LA
