@@ -19,21 +19,35 @@ information.
    intro
    projects
    github
-   sublime
+
    html
    css
 
-Markup Languages
+Sphinx and RST
 ******************
 
-Now that we've learned some HTML, it should be apparent that writing large volumes of content directly in HTML would not be efficient.  There are several markup languages that we can use to produce HTML more easily.  We'll look at some of the most common.
+Now that we've learned some HTML, it should be apparent that writing large volumes of content directly in HTML would not be efficient.  There are several markup languages that we can use to produce HTML more easily.  We'll look in some detail at a common tool stack: Sphinx and RST..
+
+.. toctree::
+   :maxdepth: 1
+    
+   sublime
+   rst
+   sphinx
+   rtd
+   
+.. note:: I also maintain a separate document, :xref:`Sphinx_Sublime_Doc` that goes into more detail about these technologies than we will cover in class.  It might be useful to those who do a final project with Sphinx.
+
+XML and DITA
+******************
+
+DITA is an XML schema used extensively in technical documentation, especially
+at large organizations such as IBM and Oracle. DITA enables. **structured
+authoring**, which requires writers to adhere to a set of structural rules.
 
 .. toctree::
    :maxdepth: 1
 
-   rst
-   sphinx
-   rtd
    xml
    dita-intro
    dita
@@ -47,13 +61,16 @@ content with more fine-grained control.  These programs offer more features
 and capabilities than markup languages, but also involve more complexity and
 overhead. We can still produce HTML, as well as some other formats.
 
+Unlike the previously-covered technologies, these tools require a paid
+license. For purposes of this course, you can get a 30-day trial license.
+
 .. toctree::
    :maxdepth: 1
 
    frame1
    frame2
    flare1
-   wordpress
+
 
 Wrap Up
 *******************

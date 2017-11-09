@@ -118,6 +118,8 @@ Everyone is encouraged to ask questions, and comment on others' questions in Sla
 
 To get started, please go to :xref:`Class Slack Channel` and add a comment to introduce yourself.
 
+.. note:: I also recommend that you join the :xref:`writethedocs.slack.com`.
+
 Assignments 
 =========================
 
@@ -126,15 +128,15 @@ tuition reimbursement).
 
 There are short assignments for each technology we cover in class. These
 assignments are intended to provide a taste of working with different
-technologies. I ask that you share the assignment with me through Slack.
+technologies. Please complete these assignments and tag me in GitHub.
 
-You will also submit 4 assignments for grading through Blackboard. These are noted in the syllabus.
+You will also submit an assignment in Blackboard for more formal evaluation for each of the 4 sections of the syllabus described on :doc:`home page <index>`. 
 
 |Assignment|
 
 I will comment extensively on your work and answer questions.
 
-I also expect you to help your peers.  If you see a question in :xref:`GitHub Issues`, don't wait for me. Try to offer good suggestions.
+I also expect you to help your peers.  If you see a question in :xref:`Class Slack Channel`, don't wait for me. Try to offer good suggestions.
 
 There is also a :ref:`Project` due at the end of the term. The project will
 allow you to work more deeply with a chosen technology.
