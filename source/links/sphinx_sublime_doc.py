@@ -1,5 +1,8 @@
+
 import link
 
-en_us_user_text = "Create Documentation with RST, Sphinx, Sublime, and GitHub" 
+link_name = "Sphinx_Sublime_Doc"
+user_text = "Create Documentation with RST, Sphinx, Sublime, and GitHub"
+url = "http://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html"
 
-link.xref_links.update({"Sphinx_Sublime_Doc": (en_us_user_text, "http://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html")})
+link.xref_links.update({link_name: (user_text, url)})
