@@ -3,7 +3,7 @@
 Sphinx
 ###################################
 
-Sphinx is a tool for compiling sets of RST files into an HTML document. (You
+Sphinx is a tool for compiling sets of RST files into an HTML website. (You
 can also use Sphinx to create many other document formats.)
 
 We will use Sphinx to publish the RST content we created in the previous class

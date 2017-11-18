@@ -16,6 +16,8 @@ Goals
   
 * Create your account in GitHub.
 
+* Complete the GitHub Hello World exercise.
+
 Readings
 *********
 
@@ -27,13 +29,15 @@ Readings
 
 * :xref:`GitHub Hello World`
 
+* :xref:`GitHub Help`
+
 Videos
 *******
 
-What is GitHub?
-========================
+.. What is GitHub?
+	========================
 
-.. youtube:: VUaBfYCmJls
+	.. youtube:: VUaBfYCmJls
 
 How to Use GitHub for Beginners
 =================================
@@ -66,11 +70,4 @@ the course, but could be helpful.  See
 .. youtube:: kFix7UDJ7LA
 
 
-Extra Credit 
-***********************
-
-Explore the :xref:`GitHub Training` site.  
-
-You do not need to know everything in the training for this course, but it
-will prove valuable in future jobs.
 

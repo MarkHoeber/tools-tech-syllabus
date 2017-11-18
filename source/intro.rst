@@ -13,7 +13,7 @@ This course will not make anyone an expert in any tool. Rather, we aim to:
 
 * Provide context for tool choices.
 
-* And most importantly, help you *learn how to learn*.
+* And most importantly, help you *learn how to learn* new tools.
 
   Undoubtedly, in five years, or next year, you will not be using the same tools that we use
   in this class. You will need to adapt to rapid change.  We will stress using
@@ -34,8 +34,8 @@ A "Flip" Classroom
 Traditional classes involve a teacher talking and demonstrating during class
 time, and students completing assignments outside of class.
 
-This class "flips" that model. Students are expected to read and view all
-material for the class, and work on assignments, before coming to the
+This class *flips* that model. Students are expected to read and view all
+material for the class, and work on assignments, *before* coming to the
 classroom. We will use class time to:
 
 * Ask and answer questions.
@@ -44,12 +44,12 @@ classroom. We will use class time to:
 
 * Share work in an open, supportive atmosphere.
 
-I do not intend to lecture during class.
+Classroom time will be as hands-on as possible.
 
 GitHub
 ********
 
-We will use GitHub to communicate and to exchange files. 
+We will use GitHub to share our work. 
 
 Many of you will use GitHub or a similar system (such as BitBucket) in your future jobs, so this
 is a good opportunity to learn more about it. To get started, create an GitHub
@@ -59,12 +59,14 @@ account.
 
 .. Then add your GitHub user name to the :xref:`GitHub Issues` discussion so the rest of the class can collaborate with you.
 
-We will discuss GitHub in the 1st class.  Do the reading and watch the videos before then.
+We will discuss GitHub in the 1st class.  Do the reading and watch the videos in the :doc:`GitHub lesson <github>` before then.
 
 Editors 
 ***********************
 
-For markup languages, you can edit in GitHub directly, without installing any software. You can also use Sublime to edit files on your computer.
+For markup languages, you can edit content in GitHub directly, without installing any software. 
+
+You can also use Sublime or a variety of other editors to work with content on your computer.
 
 Later in the semester we will install trial versions of Oxygen, FrameMaker and Madcap Flare.
 
@@ -85,12 +87,11 @@ I've selected what I think are good articles and videos for this class.  But
 there are many more. You are encouraged to search on your own, and if you
 learn a trick we haven't covered, share it.
 
-You will need to spend around 4-8 hours per week for this class.
+You will need to spend around ~4 hours per week for this class.
 
-Class participation online, between class meetings, is expected.
+Class participation on `Slack`_, between class meetings, is expected.
 
-You are also expected to collaborate, in small teams and as a class.  There
-will be team projects -- after all, that is how most of you will work.  I will
+You are also expected to collaborate, in small teams and as a class. I will
 comment on your work. You are encouraged to help each other and comment on
 each other's work as well.
 
@@ -100,7 +101,7 @@ browsing.
 Class Discussions 
 =========================
 
-Active class participation, both in our weekly meetings and online, is a must.
+Active class participation, both in our weekly meetings and on Slack, is a must.
 
 
 Slack 
@@ -130,7 +131,7 @@ There are short assignments for each technology we cover in class. These
 assignments are intended to provide a taste of working with different
 technologies. Please complete these assignments and tag me in GitHub.
 
-You will also submit an assignment in Blackboard for more formal evaluation for each of the 4 sections of the syllabus described on :doc:`home page <index>`. 
+You will also submit an assignment in Blackboard for more formal evaluation for each of the 3 sections of the syllabus described on :doc:`home page <index>`. 
 
 |Assignment|
 
@@ -152,10 +153,10 @@ over.
 In addition, we're not just learning about the open source world, we are
 experiencing it.
 
-How? Let's look at the ways:
+How?
 
 * Much of the content of this course comes from freely available sources, such
-  as Wikipedia, YouTube, and SlideShare. My role is to assemble sources into a
+  as |WP|, YouTube, and SlideShare. My role is to assemble sources into a
   coherent story that meets our objectives.
 
 * Content on |WP| and YouTube, two of our primary sources, is created by
@@ -164,9 +165,8 @@ How? Let's look at the ways:
   will discuss.
 
 * This syllabus is created, stored, and hosted using only open source tools.
-  This didn't cost a cent, and just about any aspect of it can be modified.
+  This didn't cost a penny, and just about any aspect of it can be modified.
 
 * In fact, **this syllabus is open source**, with a Creative Commons license.
   You can, and are encouraged to, make it better and to share it, using the
-  tools we will learn about.
-
+  tools you will learn about.

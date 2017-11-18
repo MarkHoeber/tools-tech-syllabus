@@ -1,13 +1,16 @@
 HTML
 ############
 
-Most of the content we deliver on line is in HTML.
+Most of the content we deliver on line is in HTML - the language of the World
+Wide Web.  
 
-In later lessons, we will use a variety of tools that make creating HTML easier.
+In later lessons, we will use a variety of tools that make creating HTML much
+easier. Thee other tools allow you to write content in a simpler format, then
+*transform* the content into HTML for delivery to your users.
 
-Although these tools help us avoid the verbosity of HTML, it is very helpful
-to know HTMl basics, which is why we start the course working directly with
-HTML.
+As we'll see, creating HTML directly can be tedious. Although other tools help
+us avoid the verbosity of HTML, it is very helpful to know HTMl basics, which
+is why we start the course working directly with HTML.
 
 
 Goals
@@ -40,9 +43,10 @@ Assignment
 
 |Assignment| 
 
-Follow the GitHub flow to complete this assignment. After you fork the
-repository, you can complete the assignment through the browser, or through
-GitHub Desktop and Sublime (or another text editor).
+Follow the GitHub flow, described in the :doc:`previous lesson <github>`, to
+complete this assignment. After you fork the repository, you can complete the
+assignment through the browser, or through GitHub Desktop and Sublime (or
+another text editor).
 
 #. Make a fork of :xref:`Get Started HMTL Repo` in your own GitHub account.
 

@@ -1,9 +1,13 @@
 .. _RST:
 
 reStructuredText (RST)
-###################################
+#######################
 
-RST is a text file format used for technical documentation. RST grew out of the Python programming community, but can be used for a wide variety of content (for example, this syllabus.)
+RST is a text file format used for technical documentation. RST grew out of
+the Python programming community, but can be used for a wide variety of
+content (for example, this syllabus).
+
+You can write content in RST, then convert to to HTML, as well as other formats such as PDF, eBook, and many others.
 
 Goals
 *********
@@ -11,7 +15,6 @@ Goals
 * Learn the basic syntax of RST.
 * Edit a page in RST.
 * Be prepared to create documentation sets in Sphinx.
-
 
 Readings
 *********

@@ -4,7 +4,7 @@ Final Project
 #############
 
 The final project is to produce a substantial document through one of the tools we
-examine over the semester.
+examine over the semester. You can use any content you want:  a paper from another class, a work-related project, or something you create just for this class.
 
 I recommend doing the project in RST/Sphinx or DITA, for several reasons:
 
@@ -16,7 +16,8 @@ I recommend doing the project in RST/Sphinx or DITA, for several reasons:
 
 * You will be able to use GitHub to manage your project, which will make it
   easy for me (and other students) to provide feedback, and for you to iterate
-  through revisions using the GitHub Flow.
+  through revisions using the GitHub Flow. You will also be able to easily share
+  it as part of a portfolio of work.
 
 * Finally, I believe that the direct use of markup languages is a growing
   requirement for technical writers, and doing a substantial project that you
