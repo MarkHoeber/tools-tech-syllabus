@@ -44,9 +44,8 @@ Assignment
 |Assignment| 
 
 Follow the GitHub flow, described in the :doc:`previous lesson <github>`, to
-complete this assignment. After you fork the repository, you can complete the
-assignment through the browser, or through GitHub Desktop and Sublime (or
-another text editor).
+complete this assignment. Yu can complete the assignment through the browser,
+or through GitHub Desktop and Sublime (or another text editor).
 
 #. Make a fork of :xref:`Get Started HMTL Repo` in your own GitHub account.
 

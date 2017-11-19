@@ -1,4 +1,4 @@
 
 .. note:: Typically, you would create a new branch in which to do this work.
    For this exercise, work directly in the **master** branch, so you can see the
-   results immediately.
+   results immediately in your website.
