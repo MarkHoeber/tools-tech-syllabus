@@ -5,7 +5,7 @@ Goals
 *******
 
 This course will help you become familiar with a wide variety of current tools
-and technologies writers use to publish online content.
+and technologies writers use to create, manage, and publish online content.
 
 This course will not make anyone an expert in any tool. Rather, we aim to:
 
@@ -52,14 +52,14 @@ GitHub
 We will use GitHub to share our work. 
 
 Many of you will use GitHub or a similar system (such as BitBucket) in your future jobs, so this
-is a good opportunity to learn more about it. To get started, create an GitHub
+is a good opportunity to learn more about it. To get started, create a GitHub
 account.
 
 :xref:`GitHub Join`
 
 .. Then add your GitHub user name to the :xref:`GitHub Issues` discussion so the rest of the class can collaborate with you.
 
-We will discuss GitHub in the 1st class.  Do the reading and watch the videos in the :doc:`GitHub lesson <github>` before then.
+We will discuss GitHub in the 1st class. Do the reading and watch the videos in the :doc:`GitHub lesson <github>` before then.
 
 Editors 
 ***********************
@@ -103,7 +103,6 @@ Class Discussions
 
 Active class participation, both in our weekly meetings and on Slack, is a must.
 
-
 Slack 
 =========================
 
@@ -111,9 +110,11 @@ We will use the :xref:`Class Slack Channel`  to discuss questions online.
 
 Sign up for the Slack channel before the first class.
 
-Slack is a common individual and group chat tool; you very well may use it now or in the future on the job.  
+Slack is a common individual and group chat tool; you very well may use it now
+or in the future on the job.
 
-You can use Slack in a browser, install the program on your computer, and add the app to your phone.
+You can use Slack in a browser, install the program on your computer, and add
+the app to your phone.
 
 Everyone is encouraged to ask questions, and comment on others' questions in Slack.
 
@@ -131,7 +132,9 @@ There are short assignments for each technology we cover in class. These
 assignments are intended to provide a taste of working with different
 technologies. Please complete these assignments and tag me in GitHub.
 
-You will also submit an assignment in Blackboard for more formal evaluation for each of the 3 sections of the syllabus described on :doc:`home page <index>`. 
+You will also submit an assignment in Blackboard for more formal evaluation
+for each of the 3 sections of the syllabus described on :doc:`home page
+<index>`.
 
 |Assignment|
 
