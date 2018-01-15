@@ -18,16 +18,14 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 project = u'Tools and Technologies for Technical Writers'
-copyright = u'2016, Mark Hoeber'
+copyright = u'2018, Mark Hoeber'
 author = u'Mark Hoeber'
 
 googleanalytics_id = 'UA-88078032-1'
 
 pygments_style = 'sphinx'
 
-
 todo_include_todos = True
-
 
 html_theme = 'bootstrap'
 html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
@@ -41,6 +39,10 @@ html_theme_options = {
   #'bootswatch_theme': "Sandstone"
 }
 
+
+def setup(app):
+    app.add_stylesheet("my-styles.css") 
+    
 exclude_patterns = ['links.rst', 'substitutions.rst', 'atom.rst', 
   'unused/*']
 
