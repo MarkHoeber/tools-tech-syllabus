@@ -205,8 +205,8 @@ You now have a web page that you, and your friends and family, can view.
    The URL of your new website is now listed. Open it.  If you don't like
    something in your web page, edit the ``index.html`` file again.
 
-Extra Credit
-*************
+Extra
+****************
 
 :xref:`HTML 5 - edX`
 
