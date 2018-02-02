@@ -1,8 +1,6 @@
 HTML
 ############
 
-This is JUNK.
-
 Most of the content we deliver on line is in HTML - the language of the World
 Wide Web.  
 
