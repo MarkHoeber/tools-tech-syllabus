@@ -38,6 +38,8 @@ Videos
 
 .. youtube:: x4OKqZ2kIx4
 
+.. youtube:: USAeFpVf_A
+
 Assignment
 ************
 
