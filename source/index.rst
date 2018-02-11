@@ -20,6 +20,8 @@ To get started, we will set up our content management, GitHub, and dive into the
    html
    css
 
+**Submit URL to your GitHub repository with the CSS assignment to Blackboard by 2/18/2018.**
+
 Sphinx and RST
 ******************
 
@@ -35,6 +37,8 @@ some detail at a common tool stack: Sphinx and RST.
    rst
    sphinx
    rtd
+
+**Submit URL to your GitHub repository with the Sphinx assignment, and the URL to your ReadtheDocs project, to Blackboard by 3/11/2018.**
    
 .. note:: I also maintain a separate document, :xref:`Sphinx_Sublime_Doc` that goes into more detail about these technologies than we will cover in class.  It might be useful to those who do a final project with Sphinx. It is a work in progress and contributions are welcome.
 
@@ -52,6 +56,8 @@ authoring**, which requires writers to adhere to a set of rules.
    dita-intro
    dita
    dita-maps
+
+**Submit URL to your GitHub repository with the DITA Maps assignment to Blackboard by 4/8/2018.**
 
 Publishing Systems
 *******************
@@ -71,8 +77,14 @@ license. For purposes of this course, you can get a 30-day trial license.
    frame2
    flare1
 
+**Submit your files to Blackboard by 4/22/2018.**
+
+
 
 Wrap Up
 *******************
 
 We will use the last two classes to work on and present our projects.
+
+**Submit your final project (URL or files) to Blackboard by 5/11/2018.**
+
