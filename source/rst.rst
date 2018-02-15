@@ -48,7 +48,7 @@ files on your local computer, and use Sublime or another program to edit.
 Part 1 
 =========
 
-Lets get familiar with RST.
+Let's get familiar with RST.
 
 #. Use :xref:`Online RST Writer` to create a short version of your resume (or
    something else if your prefer). Save it in another file that you will have access to.
