@@ -79,6 +79,14 @@ license. For purposes of this course, you can get a 30-day trial license.
 
 **Submit your files to Blackboard by 4/29/2018.**
 
+Video 
+***********************
+
+.. toctree::
+   :maxdepth: 1
+
+   camtasia
+
 
 
 Wrap Up
