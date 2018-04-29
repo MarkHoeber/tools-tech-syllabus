@@ -87,7 +87,7 @@ Video
 
    camtasia
 
-
+**Submit Frame or Camtasia assignment to Blackboard by 5/6/2018.**
 
 Wrap Up
 *******************
