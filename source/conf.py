@@ -4,7 +4,7 @@ import sphinx_bootstrap_theme
 sys.path.append(os.path.abspath('ext'))
 sys.path.append('.')
 
-extensions = ['xref', 'youtube']
+extensions = ['xref']
 
 from links.link import *
 from links import *
@@ -18,7 +18,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 project = u'Tools and Technologies for Technical Writers'
-copyright = u'2018, Mark Hoeber'
+copyright = u'2019, Mark Hoeber'
 author = u'Mark Hoeber'
 
 googleanalytics_id = 'UA-88078032-1'

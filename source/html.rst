@@ -36,9 +36,13 @@ Readings
 Videos
 *******
 
-.. youtube:: x4OKqZ2kIx4
+.. raw:: html
 
-.. youtube:: -USAeFpVf_A
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/x4OKqZ2kIx4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-USAeFpVf_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Assignment
 ************
@@ -107,13 +111,6 @@ or through GitHub Desktop and Sublime (or another text editor).
 
 #. Upload a photo to your GitHub repository.
 
-   .. container:: toggle
-
-     .. container:: header
-
-       Hint
-
-     .. youtube:: q5f7a2BInuk
 
 #. In the first ``aside``, add a picture and description.
 
