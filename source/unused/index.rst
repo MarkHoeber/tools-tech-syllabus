@@ -31,8 +31,13 @@ markup languages that we can use to produce HTML more easily.  We'll look in
 some detail at a common tool stack: Sphinx and RST.
 
 
-*Lessons Coming Soon*
-
+Coming Soon
+.. 
+    
+   sublime
+   rst
+   sphinx
+   rtd
 
 **Submit the URL to your GitHub repository with the Sphinx assignment, and the URL to your ReadtheDocs project, to Blackboard by 3/10/2019.**
    
@@ -46,8 +51,13 @@ at large organizations such as IBM and Oracle. DITA enables **structured
 authoring**, which requires writers to adhere to a set of rules.
 
 
-*Lessons Coming Soon*
+Coming Soon
+.. 
 
+   xml
+   dita-intro
+   dita
+   dita-maps
 
 **Submit the URL to your GitHub repository with the DITA Maps assignment to Blackboard by 4/14/2019.**
 
@@ -80,14 +90,20 @@ Video
 More and more technical content is delivered in video form.  We will use Camtasia to build instructional videos.
 
 
-*Lessons Coming Soon*
+Coming Soon
+.. 
+
+   camtasia
 
 
 Instructional Design 
 ***********************
 
-*Lessons Coming Soon*
+Coming Soon
 
+
+
+   
 
 **Submit your final project (URL or files) to Blackboard by 5/14/2019.**
 

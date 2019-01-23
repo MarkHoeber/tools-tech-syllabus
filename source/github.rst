@@ -34,20 +34,21 @@ Readings
 Videos
 *******
 
-.. What is GitHub?
-	========================
-
-	.. youtube:: VUaBfYCmJls
 
 How to Use GitHub for Beginners
 =================================
 
-.. youtube:: E8TXME3bzNs
+.. raw:: html
+
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/E8TXME3bzNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 GitHub Flow
 =============
 
-.. youtube:: 9bP4-ly2qtQ
+.. raw:: html
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/9bP4-ly2qtQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Assignment
 ************
@@ -65,9 +66,7 @@ Assignment
 You can also install a GitHub application on your computer, so you can edit
 files on your computer and sync them with GitHub.  This is not required for
 the course, but could be helpful.  See
-:xref:`GitHub Setup`. See the following video for more information.
-
-.. youtube:: kFix7UDJ7LA
+:xref:`GitHub Setup`. 
 
 
 

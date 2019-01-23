@@ -35,7 +35,7 @@ Traditional classes involve a teacher talking and demonstrating during class
 time, and students completing assignments outside of class.
 
 This class *flips* that model. Students are expected to read and view all
-material for the class, and work on assignments, *before* coming to the
+material for the class, and to start on assignments, *before* coming to the
 classroom. We will use class time to:
 
 * Ask and answer questions.
@@ -68,7 +68,7 @@ For markup languages, you can edit content in GitHub directly, without installin
 
 You can also use Sublime or a variety of other editors to work with content on your computer.
 
-Later in the semester we will install trial versions of Oxygen, FrameMaker and Madcap Flare.
+Later in the semester we will install trial versions of Oxygen for XML editing.
 
 .. caution:: Do not install these programs until we approach those classes;
   otherwise, your trial period might end before you can complete the
