@@ -52,6 +52,14 @@ GitHub Flow
 
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/9bP4-ly2qtQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+GitHub Training 
+=========================
+
+It is highly recommended to take the :xref:`GitHub Lab`
+.
+
+
+
 Assignment
 ************
 
@@ -65,10 +73,6 @@ Assignment
 
 #. Follow steps in :xref:`GitHub Hello World`.
 
-You can also install a GitHub application on your computer, so you can edit
-files on your computer and sync them with GitHub.  This is not required for
-the course, but could be helpful.  See
-:xref:`GitHub Setup`. 
 
 
 
