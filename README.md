@@ -6,4 +6,6 @@ Students should use Issues page for questions and discussion.
 
 ## Build Project
 
+run `make html`
+
 ## Submit Changes
