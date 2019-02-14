@@ -31,7 +31,10 @@ markup languages that we can use to produce HTML more easily.  We'll look in
 some detail at a common tool stack: Sphinx and RST.
 
 
-*Lessons Coming Soon*
+.. toctree::
+   :maxdepth: 1
+
+   rst
 
 
 **Submit the URL to your GitHub repository with the Sphinx assignment, and the URL to your ReadtheDocs project, to Blackboard by 3/10/2019.**

@@ -26,7 +26,10 @@ Readings
 Video
 *****************
 
-.. youtube:: hM4I58TA72g
+.. raw:: html
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hM4I58TA72g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 Practice
@@ -266,6 +269,4 @@ Part 2
              :alt: Image description
 
 .. include:: snippets/save_github.txt
-
-These files will form the basis of your Sphinx project in the :ref:`next lesson <Sphinx>`.
 
