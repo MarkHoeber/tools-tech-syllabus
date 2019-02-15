@@ -27,7 +27,7 @@ pygments_style = 'sphinx'
 
 todo_include_todos = True
 
-#html_theme = 'bootstrap'
+html_theme = 'bootstrap'
 
 html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
