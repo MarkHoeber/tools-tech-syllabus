@@ -6,8 +6,7 @@ Sphinx
 Sphinx is a tool for compiling sets of RST files into an HTML website. (You
 can also use Sphinx to create many other document formats.)
 
-We will use Sphinx to publish the RST content we created in the previous class
-as HTML.
+We will use Sphinx to publish the RST content to a website.
 
 Goals
 *********
@@ -27,18 +26,20 @@ Readings
 Videos
 *******
 
-These videos are very long and detailed.  You don't need to go through them
-completely for the purposes of this course. But they are great resources if
+This videos are very long and detailed.  You don't need to go through it
+completely for the purposes of this course. But it's a great resources if
 you need to complete real projects in Sphinx. You can also increase the
 YouTube speed.
 
-.. youtube:: hM4I58TA72g
+.. raw:: html
 
-.. youtube:: QNHM7q2hLh8
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/QNHM7q2hLh8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Install Sphinx
 ****************
+
+.. note:: Installing Sphinx is optional. We can do everything needed online through GitHub and ReadTheDocs
 
 To build your HTML document on your computer, you must install Sphinx.
 

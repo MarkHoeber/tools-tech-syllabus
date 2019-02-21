@@ -35,6 +35,8 @@ some detail at a common tool stack: Sphinx and RST.
    :maxdepth: 1
 
    rst
+   sphinx
+   rtd
 
 
 **Submit the URL to your GitHub repository with the Sphinx assignment, and the URL to your ReadtheDocs project, to Blackboard by 3/10/2019.**

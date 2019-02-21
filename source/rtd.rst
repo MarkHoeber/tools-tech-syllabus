@@ -1,3 +1,5 @@
+.. _rtd:
+
 |RTD|
 ###################
 
@@ -23,7 +25,14 @@ Readings
 Videos
 *******
 
-.. youtube:: eon0B4k1-KA
+.. raw:: HTML
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OdVKFkZQyTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. raw:: HTML
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4rAoOcxQKoY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Assignment
 ************
@@ -31,8 +40,7 @@ Assignment
 |Assignment|
 
 #. Create an account on the :xref:`RTD Home`.
-#. Set up a project to publish the document in your GitHub repository.
-#. Share the URL of your project in :xref:`GitHub Issues`.
+#. Set up a project to publish the sample resume document in your GitHub repository.
 
 |RTD| Project Details
 ======================
@@ -55,3 +63,4 @@ When creating a project, you don't need all the options. These are the essential
 
   * Leave the rest of the defaults.
 
+To build the project, go to the Build tab.
