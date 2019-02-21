@@ -64,3 +64,10 @@ When creating a project, you don't need all the options. These are the essential
   * Leave the rest of the defaults.
 
 To build the project, go to the Build tab.
+
+Extra Credit
+***************
+
+* Change the Sphinx theme by changing the value of ``html_theme`` in the
+  ``conf.py`` file of the resume project. Search Sphinx documentation for more information.
+
