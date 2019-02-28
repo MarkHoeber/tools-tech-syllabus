@@ -6,6 +6,10 @@ Tools and Technologies for Technical Writers
 This course will help you become familiar with a wide variety of current tools
 and technologies writers use to create, manage, and publish online content.
 
+.. Only:: Test
+
+      TEST CONDITION
+
 Getting Started
 ******************
 
@@ -51,7 +55,10 @@ at large organizations such as IBM and Oracle. DITA enables **structured
 authoring**, which requires writers to adhere to a set of rules.
 
 
-*Lessons Coming Soon*
+.. toctree::
+   :maxdepth: 1
+
+   xml
 
 
 **Submit the URL to your GitHub repository with the DITA Maps assignment to Blackboard by 4/14/2019.**
