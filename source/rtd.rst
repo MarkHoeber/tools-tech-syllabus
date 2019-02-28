@@ -21,6 +21,8 @@ Readings
 
 * :xref:`RTD Home`
 * :xref:`RTD Doc`
+* :xref:`Sphinx and Read the Docs for Technical Writers`
+
 
 Videos
 *******

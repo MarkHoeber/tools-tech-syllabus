@@ -23,6 +23,7 @@ Readings
 
 * :xref:`Sphinx Overview`
 * :xref:`First Steps with Sphinx`
+* :xref:`Sphinx and Read the Docs for Technical Writers`
 
 Videos
 *******
