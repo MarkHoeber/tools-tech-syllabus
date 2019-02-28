@@ -6,7 +6,7 @@ Tools and Technologies for Technical Writers
 This course will help you become familiar with a wide variety of current tools
 and technologies writers use to create, manage, and publish online content.
 
-.. Only:: Test
+.. only:: Test
 
       TEST CONDITION
 
