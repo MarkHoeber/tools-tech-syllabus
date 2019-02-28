@@ -32,9 +32,13 @@ Readings
 Videos
 *******
 
-.. youtube:: Q0k5ySZGPBc
+.. raw:: HTML
+ 
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/Q0k5ySZGPBc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. youtube:: UqwGSo82cwU
+.. raw:: HTML
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UqwGSo82cwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
