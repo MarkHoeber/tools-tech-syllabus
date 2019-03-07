@@ -61,8 +61,6 @@ Videos
 Assignment
 ************
 
-|Assignment|
-
 #. Fork the :xref:`Get Started with DITA` and create a new branch.
 
 #. In GitHub, read the example concept, task, and reference examples and get
