@@ -59,6 +59,9 @@ authoring**, which requires writers to adhere to a set of rules.
    :maxdepth: 1
 
    xml
+   dita-intro
+   dita
+   dita-maps
 
 
 **Submit the URL to your GitHub repository with the DITA Maps assignment to Blackboard by 4/14/2019.**

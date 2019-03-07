@@ -23,12 +23,16 @@ Readings
 Work with Maps in oXygen 
 ********************************
 
-.. youtube:: BfhqN9V9uIE
+.. raw:: HTML 
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/BfhqN9V9uIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Publishing DITA Maps 
 ***********************
 
-.. youtube:: 6HZHAsZz_Uk
+.. raw:: HTML
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/6HZHAsZz_Uk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 DITA Maps and Reuse
 *********************
