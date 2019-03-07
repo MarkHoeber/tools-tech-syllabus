@@ -44,9 +44,6 @@ DITA code. Note that you can't validate XML files when editing on GitHub.)
 Assignment
 ************
 
-#. Pull the branch of your version of :xref:`Get Started with DITA` to your computer, then 
-   open the files with oXygen.
-
 #. Explore the DITA examples packaged with Oxygen:  flowers, garage, and others.
 
 #. In oXygen, create files for a new project of your choice.  Use at least one concept, task, and reference file.  Think carefully about the types of topics and what type of information goes where.
