@@ -33,6 +33,8 @@ DITA code. Note that you can't validate XML files when editing on GitHub.)
 .. raw:: HTML
 
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/HVaPfUEpkc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+
 
 .. raw:: HTML
 
@@ -41,8 +43,6 @@ DITA code. Note that you can't validate XML files when editing on GitHub.)
 
 Assignment
 ************
-
-|Assignment| 
 
 #. Pull the branch of your version of :xref:`Get Started with DITA` to your computer, then 
    open the files with oXygen.
