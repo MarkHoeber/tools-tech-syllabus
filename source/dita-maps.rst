@@ -46,8 +46,6 @@ management with DITA.
 Assignment
 ************
 
-|Assignment| 
-
 #. Create a new branch in your fork of the :xref:`Get Started with DITA`.
 
 #. Pull the branch to your computer, then open the files with oXygen.
