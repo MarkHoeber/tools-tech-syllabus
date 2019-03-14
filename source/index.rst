@@ -95,8 +95,11 @@ Video
 More and more technical content is delivered in video form.  We will use Camtasia to build instructional videos.
 
 
-*Lessons Coming Soon*
-
+.. toctree::
+   :maxdepth: 1
+   
+   camtasia
+      
 
 Instructional Design 
 ***********************
