@@ -53,6 +53,6 @@ Assignment
 
 #. Create an MP4 file from your project. 
    
-#. Validate all of your files.
+#. Post the MP4 file to YouTube (unless you don't want it to be public).
 
 
