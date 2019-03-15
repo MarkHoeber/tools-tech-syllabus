@@ -27,7 +27,7 @@ Assignment
 
 |Assignment| 
 
-#. :xref:`Download Camtasia`.
+#. If using your own computer, :xref:`Download Camtasia` and install it. You can use the trial version for 30 days. (The classroom PCs have Camtasia installed.)
 
 #. Open Camtasia and create a new project.
 
