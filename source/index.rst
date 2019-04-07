@@ -104,7 +104,14 @@ More and more technical content is delivered in video form.  We will use Camtasi
 Instructional Design 
 ***********************
 
-*Lessons Coming Soon*
+Technical writers and instructional designers increasingly work together. In this section, we will use Open edX to build sample online courses.
+
+
+.. toctree::
+   :maxdepth: 1
+   
+   edx1
+      
 
 
 **Submit your final project (URL or files) to Blackboard by 5/14/2019.**
