@@ -50,7 +50,7 @@ In this assignment, we will get started with building course content. In the doc
 
 #. Start by exploring the sections, subsections, and units. Open up individual units, and try editing or adding units.  We will demo this in class.
 
-#. Explore the problems in the units.  Make not of the syntax.  We will cover problems and grading in more depth in later lessons.
+#. Explore the problems in the units.  Make note of the syntax.  We will cover problems and grading in more depth in later lessons.
 
 #. Go back to the outline. Not how you can drag and drop all objects on the outline to different locations.
 
