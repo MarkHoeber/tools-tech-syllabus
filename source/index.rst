@@ -111,6 +111,7 @@ Technical writers and instructional designers increasingly work together. In thi
    :maxdepth: 1
    
    edx1
+   edx2
       
 
 
